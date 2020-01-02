@@ -1,0 +1,2652 @@
+Uri: https://air4cool.com/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\index.htm
+Content Type: text/html
+
+Uri: https://air4cool.com/wp-content/uploads/2018/06/BlogBackground-1.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\06\BlogBackground-1.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/07/ContactoAir4Cool.jpg?id=871
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\07\ContactoAir4Cool.jpg
+Content Type: image/jpeg
+
+Uri: https://air4cool.com/wp-content/uploads/2018/06/Favi.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\06\Favi.png
+Content Type: image/png
+
+Uri: https://air4cool.com/feed/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://air4cool.com/comments/feed/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\comments\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://air4cool.com/wp-content/plugins/LayerSlider/static/layerslider/css/layerslider.css?ver=6.7.6
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\LayerSlider\static\layerslider\css\layerslider.css
+Content Type: text/css
+
+Uri: https://air4cool.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.1
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://air4cool.com/wp-content/plugins/cookie-law-info/public/css/cookie-law-info-public.css?ver=1.7.3
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\cookie-law-info\public\css\cookie-law-info-public.css
+Content Type: text/css
+
+Uri: https://air4cool.com/wp-content/plugins/cookie-law-info/public/css/cookie-law-info-gdpr.css?ver=1.7.3
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\cookie-law-info\public\css\cookie-law-info-gdpr.css
+Content Type: text/css
+
+Uri: https://air4cool.com/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.4.7.4
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\revslider\public\assets\css\settings.css
+Content Type: text/css
+
+Uri: https://air4cool.com/wp-content/plugins/download-monitor/assets/css/frontend.css?ver=4.9.10
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\download-monitor\assets\css\frontend.css
+Content Type: text/css
+
+Uri: https://air4cool.com/wp-content/themes/bridge/style.css?ver=4.9.10
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\style.css
+Content Type: text/css
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/font-awesome/css/font-awesome.min.css?ver=4.9.10
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\font-awesome\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/elegant-icons/style.min.css?ver=4.9.10
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\elegant-icons\style.min.css
+Content Type: text/css
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/linea-icons/style.css?ver=4.9.10
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\linea-icons\style.css
+Content Type: text/css
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/dripicons/dripicons.css?ver=4.9.10
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\dripicons\dripicons.css
+Content Type: text/css
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/stylesheet.min.css?ver=4.9.10
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\stylesheet.min.css
+Content Type: text/css
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/print.css?ver=4.9.10
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\print.css
+Content Type: text/css
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/style_dynamic.css?ver=1546422284
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\style_dynamic.css
+Content Type: text/css
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/responsive.min.css?ver=4.9.10
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\responsive.min.css
+Content Type: text/css
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/style_dynamic_responsive.css?ver=1546422284
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\style_dynamic_responsive.css
+Content Type: text/css
+
+Uri: https://air4cool.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=5.4.7
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\js_composer\assets\css\js_composer.min.css
+Content Type: text/css
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/custom_css.css?ver=1546422286
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\custom_css.css
+Content Type: text/css
+
+Uri: https://air4cool.com/wp-json/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\index.json
+Content Type: application/json
+
+Uri: https://air4cool.com/xmlrpc.php?rsd
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\xmlrpc.xml
+Content Type: text/xml
+
+Uri: https://air4cool.com/wp-includes/wlwmanifest.xml
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2F
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed.json
+Content Type: application/json
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2F&format=xml
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed.xml
+Content Type: text/xml
+
+Uri: https://air4cool.com/wp-content/uploads/2018/06/cropped-Favi-32x32.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\06\cropped-Favi-32x32.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/06/cropped-Favi-192x192.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\06\cropped-Favi-192x192.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/06/cropped-Favi-180x180.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\06\cropped-Favi-180x180.png
+Content Type: image/png
+
+Uri: https://air4cool.com/como-funciona/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\como-funciona\index.htm
+Content Type: text/html
+
+Uri: https://air4cool.com/equipos/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\equipos\index.htm
+Content Type: text/html
+
+Uri: https://air4cool.com/equipos-portatiles/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\equipos-portatiles\index.htm
+Content Type: text/html
+
+Uri: https://air4cool.com/2019/04/08/sera-2019-el-ano-mas-calido-registrado-2/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\2019\04\08\sera-2019-el-ano-mas-calido-registrado-2\index.htm
+Content Type: text/html
+
+Uri: https://air4cool.com/category/sin-categoria/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\category\sin-categoria\index.htm
+Content Type: text/html
+
+Uri: https://air4cool.com/2019/04/03/sube-de-la-luz-pero-no-su-factura/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\2019\04\03\sube-de-la-luz-pero-no-su-factura\index.htm
+Content Type: text/html
+
+Uri: https://air4cool.com/2018/10/18/funcionaran-bien-los-equipos-evaporativos-en-mi-localidad-app-air4cool/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\2018\10\18\funcionaran-bien-los-equipos-evaporativos-en-mi-localidad-app-air4cool\index.htm
+Content Type: text/html
+
+Uri: https://air4cool.com/blog/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\blog\index.htm
+Content Type: text/html
+
+Uri: https://air4cool.com/2018/08/30/importancia-ahorro-energetico/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\2018\08\30\importancia-ahorro-energetico\index.htm
+Content Type: text/html
+
+Uri: https://air4cool.com/politica-privacidad/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\politica-privacidad\index.htm
+Content Type: text/html
+
+Uri: https://air4cool.com/aviso-legal/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\aviso-legal\index.htm
+Content Type: text/html
+
+Uri: https://air4cool.com/cookies/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\cookies\index.htm
+Content Type: text/html
+
+Uri: https://air4cool.com/wp-content/themes/bridge/js/plugins/ScrollToPlugin.min.js?ver=4.9.10
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\js\plugins\ScrollToPlugin.min.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-content/plugins/LayerSlider/static/layerslider/js/greensock.js?ver=1.19.0
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\LayerSlider\static\layerslider\js\greensock.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-includes/js/jquery/jquery.js?ver=1.12.4
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-includes\js\jquery\jquery.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-content/plugins/LayerSlider/static/layerslider/js/layerslider.kreaturamedia.jquery.js?ver=6.7.6
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\LayerSlider\static\layerslider\js\layerslider.kreaturamedia.jquery.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-content/plugins/LayerSlider/static/layerslider/js/layerslider.transitions.js?ver=6.7.6
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\LayerSlider\static\layerslider\js\layerslider.transitions.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-content/plugins/cookie-law-info/public/js/cookie-law-info-public.js?ver=1.7.3
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\cookie-law-info\public\js\cookie-law-info-public.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.4.7.4
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\revslider\public\assets\js\jquery.themepunch.tools.min.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.7.4
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\revslider\public\assets\js\jquery.themepunch.revolution.min.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-content/uploads/2018/06/Logo-A4C-sin-fondo-e1529600460208.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\06\Logo-A4C-sin-fondo-e1529600460208.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/06/Air4Cool-Logo.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\06\Air4Cool-Logo.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/07/evaporativos.jpg
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\07\evaporativos.jpg
+Content Type: image/jpeg
+
+Uri: https://air4cool.com/wp-content/uploads/2018/06/mercury-thermometer.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\06\mercury-thermometer.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/07/Evap2.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\07\Evap2.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/06/Naves-Industriales.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\06\Naves-Industriales.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/06/Pre-cooling.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\06\Pre-cooling.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/06/Evaporativo.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\06\Evaporativo.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/06/Pabellones-deportivos.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\06\Pabellones-deportivos.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/06/Data-center.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\06\Data-center.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/06/Evaporativos-Aplicaciones.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\06\Evaporativos-Aplicaciones.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/07/evaporative-cooler2-300x210.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\07\evaporative-cooler2-300x210.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/06/sea-waves-300x300.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\06\sea-waves-300x300.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/06/A4C19-400x400-150x150.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\06\A4C19-400x400-150x150.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/06/A4C31-400x400-150x150.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\06\A4C31-400x400-150x150.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/07/Hurricane-400x400-150x150.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\07\Hurricane-400x400-150x150.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/06/GooglePlay2.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\06\GooglePlay2.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/06/AppStore2.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\06\AppStore2.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/06/Iphone_App-e1529770004560-500x250.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\06\Iphone_App-e1529770004560-500x250.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2019/04/thumbnail_oasis-2335767-539x303.jpg
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2019\04\thumbnail_oasis-2335767-539x303.jpg
+Content Type: image/jpeg
+
+Uri: https://air4cool.com/wp-content/uploads/2019/04/light-bulb-503881-539x303.jpg
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2019\04\light-bulb-503881-539x303.jpg
+Content Type: image/jpeg
+
+Uri: https://air4cool.com/wp-content/uploads/2018/06/Iphone_App-539x303.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\06\Iphone_App-539x303.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.1
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\contact-form-7\includes\js\scripts.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-content/themes/bridge/js/plugins/qode-like.min.js?ver=4.9.10
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\js\plugins\qode-like.min.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-includes\js\jquery\ui\widget.min.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-includes/js/jquery/ui/accordion.min.js?ver=1.11.4
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-includes\js\jquery\ui\accordion.min.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-includes\js\jquery\ui\position.min.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-includes/js/jquery/ui/menu.min.js?ver=1.11.4
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-includes\js\jquery\ui\menu.min.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-includes/js/wp-a11y.min.js?ver=4.9.10
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-includes\js\wp-a11y.min.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.11.4
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-includes\js\jquery\ui\autocomplete.min.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-includes/js/jquery/ui/button.min.js?ver=1.11.4
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-includes\js\jquery\ui\button.min.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-includes\js\jquery\ui\datepicker.min.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-includes\js\jquery\ui\mouse.min.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-includes/js/jquery/ui/resizable.min.js?ver=1.11.4
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-includes\js\jquery\ui\resizable.min.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-includes/js/jquery/ui/draggable.min.js?ver=1.11.4
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-includes\js\jquery\ui\draggable.min.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-includes/js/jquery/ui/dialog.min.js?ver=1.11.4
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-includes\js\jquery\ui\dialog.min.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-includes/js/jquery/ui/droppable.min.js?ver=1.11.4
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-includes\js\jquery\ui\droppable.min.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-includes/js/jquery/ui/progressbar.min.js?ver=1.11.4
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-includes\js\jquery\ui\progressbar.min.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-includes/js/jquery/ui/selectable.min.js?ver=1.11.4
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-includes\js\jquery\ui\selectable.min.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-includes/js/jquery/ui/sortable.min.js?ver=1.11.4
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-includes\js\jquery\ui\sortable.min.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-includes/js/jquery/ui/slider.min.js?ver=1.11.4
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-includes\js\jquery\ui\slider.min.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-includes/js/jquery/ui/spinner.min.js?ver=1.11.4
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-includes\js\jquery\ui\spinner.min.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-includes/js/jquery/ui/tooltip.min.js?ver=1.11.4
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-includes\js\jquery\ui\tooltip.min.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-includes\js\jquery\ui\tabs.min.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-includes/js/jquery/ui/effect.min.js?ver=1.11.4
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-includes\js\jquery\ui\effect.min.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-includes/js/jquery/ui/effect-blind.min.js?ver=1.11.4
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-includes\js\jquery\ui\effect-blind.min.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-includes/js/jquery/ui/effect-bounce.min.js?ver=1.11.4
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-includes\js\jquery\ui\effect-bounce.min.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-includes/js/jquery/ui/effect-clip.min.js?ver=1.11.4
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-includes\js\jquery\ui\effect-clip.min.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-includes/js/jquery/ui/effect-drop.min.js?ver=1.11.4
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-includes\js\jquery\ui\effect-drop.min.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-includes/js/jquery/ui/effect-explode.min.js?ver=1.11.4
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-includes\js\jquery\ui\effect-explode.min.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-includes/js/jquery/ui/effect-fade.min.js?ver=1.11.4
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-includes\js\jquery\ui\effect-fade.min.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-includes/js/jquery/ui/effect-fold.min.js?ver=1.11.4
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-includes\js\jquery\ui\effect-fold.min.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-includes/js/jquery/ui/effect-highlight.min.js?ver=1.11.4
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-includes\js\jquery\ui\effect-highlight.min.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-includes/js/jquery/ui/effect-pulsate.min.js?ver=1.11.4
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-includes\js\jquery\ui\effect-pulsate.min.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-includes/js/jquery/ui/effect-size.min.js?ver=1.11.4
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-includes\js\jquery\ui\effect-size.min.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-includes/js/jquery/ui/effect-scale.min.js?ver=1.11.4
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-includes\js\jquery\ui\effect-scale.min.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-includes/js/jquery/ui/effect-shake.min.js?ver=1.11.4
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-includes\js\jquery\ui\effect-shake.min.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-includes/js/jquery/ui/effect-slide.min.js?ver=1.11.4
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-includes\js\jquery\ui\effect-slide.min.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-includes/js/jquery/ui/effect-transfer.min.js?ver=1.11.4
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-includes\js\jquery\ui\effect-transfer.min.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-content/themes/bridge/js/plugins.js?ver=4.9.10
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\js\plugins.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-content/themes/bridge/js/plugins/jquery.carouFredSel-6.2.1.min.js?ver=4.9.10
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\js\plugins\jquery.carouFredSel-6.2.1.min.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-content/themes/bridge/js/plugins/lemmon-slider.min.js?ver=4.9.10
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\js\plugins\lemmon-slider.min.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-content/themes/bridge/js/plugins/jquery.fullPage.min.js?ver=4.9.10
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\js\plugins\jquery.fullPage.min.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-content/themes/bridge/js/plugins/jquery.mousewheel.min.js?ver=4.9.10
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\js\plugins\jquery.mousewheel.min.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-content/themes/bridge/js/plugins/jquery.touchSwipe.min.js?ver=4.9.10
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\js\plugins\jquery.touchSwipe.min.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-content/plugins/js_composer/assets/lib/bower/isotope/dist/isotope.pkgd.min.js?ver=5.4.7
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\js_composer\assets\lib\bower\isotope\dist\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-content/themes/bridge/js/plugins/packery-mode.pkgd.min.js?ver=4.9.10
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\js\plugins\packery-mode.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-content/themes/bridge/js/plugins/jquery.stretch.js?ver=4.9.10
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\js\plugins\jquery.stretch.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-content/themes/bridge/js/plugins/imagesloaded.js?ver=4.9.10
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\js\plugins\imagesloaded.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-content/themes/bridge/js/plugins/rangeslider.min.js?ver=4.9.10
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\js\plugins\rangeslider.min.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-content/themes/bridge/js/plugins/jquery.event.move.js?ver=4.9.10
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\js\plugins\jquery.event.move.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-content/themes/bridge/js/plugins/jquery.twentytwenty.js?ver=4.9.10
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\js\plugins\jquery.twentytwenty.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-content/themes/bridge/js/plugins/TweenLite.min.js?ver=4.9.10
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\js\plugins\TweenLite.min.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-content/themes/bridge/js/plugins/smoothPageScroll.min.js?ver=4.9.10
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\js\plugins\smoothPageScroll.min.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-content/themes/bridge/js/default_dynamic.js?ver=1546422326
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\js\default_dynamic.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-content/themes/bridge/js/default.min.js?ver=4.9.10
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\js\default.min.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-content/themes/bridge/js/custom_js.js?ver=1546422328
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\js\custom_js.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-includes/js/comment-reply.min.js?ver=4.9.10
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=5.4.7
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\js_composer\assets\js\dist\js_composer_front.min.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-includes/js/wp-embed.min.js?ver=4.9.10
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-includes\js\wp-embed.min.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-content/uploads/2018/07/Evap2-300x273.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\07\Evap2-300x273.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/07/evaporative-cooler2-768x538.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\07\evaporative-cooler2-768x538.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/07/evaporative-cooler2.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\07\evaporative-cooler2.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/07/evaporative-cooler2-700x490.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\07\evaporative-cooler2-700x490.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/06/sea-waves-150x150.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\06\sea-waves-150x150.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/06/sea-waves-500x500.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\06\sea-waves-500x500.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/06/sea-waves.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\06\sea-waves.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/06/A4C19-400x400-300x300.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\06\A4C19-400x400-300x300.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/06/A4C19-400x400.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\06\A4C19-400x400.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/06/A4C31-400x400-300x300.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\06\A4C31-400x400-300x300.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/06/A4C31-400x400.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\06\A4C31-400x400.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/07/Hurricane-400x400-300x300.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\07\Hurricane-400x400-300x300.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/07/Hurricane-400x400.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\07\Hurricane-400x400.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2019/04/thumbnail_oasis-2335767-300x169.jpg
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2019\04\thumbnail_oasis-2335767-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://air4cool.com/wp-content/uploads/2019/04/thumbnail_oasis-2335767-768x432.jpg
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2019\04\thumbnail_oasis-2335767-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://air4cool.com/wp-content/uploads/2019/04/thumbnail_oasis-2335767-1024x576.jpg
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2019\04\thumbnail_oasis-2335767-1024x576.jpg
+Content Type: image/jpeg
+
+Uri: https://air4cool.com/wp-content/uploads/2019/04/thumbnail_oasis-2335767-700x394.jpg
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2019\04\thumbnail_oasis-2335767-700x394.jpg
+Content Type: image/jpeg
+
+Uri: https://air4cool.com/wp-content/uploads/2019/04/thumbnail_oasis-2335767.jpg
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2019\04\thumbnail_oasis-2335767.jpg
+Content Type: image/jpeg
+
+Uri: https://air4cool.com/wp-content/plugins/contact-form-7/images/ajax-loader.gif
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\contact-form-7\images\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://air4cool.com/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.eot?5510888
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://air4cool.com/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.woff?5510888
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.woff
+Content Type: application/font-woff
+
+Uri: https://air4cool.com/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.ttf?5510888
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.bin
+Content Type: application/octet-stream
+
+Uri: https://air4cool.com/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.svg?5510888
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.svg
+Content Type: image/svg+xml
+
+Uri: https://air4cool.com/wp-content/plugins/revslider/public/assets/css/openhand.cur
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\revslider\public\assets\css\openhand.cur
+Content Type: 
+
+Uri: https://air4cool.com/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\revslider\public\assets\css\closedhand.cur
+Content Type: 
+
+Uri: https://air4cool.com/wp-content/plugins/revslider/public/assets/assets/gridtile.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\revslider\public\assets\assets\gridtile.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/plugins/revslider/public/assets/assets/gridtile_white.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\revslider\public\assets\assets\gridtile_white.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/plugins/revslider/public/assets/assets/gridtile_3x3.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\revslider\public\assets\assets\gridtile_3x3.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/plugins/revslider/public/assets/assets/gridtile_3x3_white.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\revslider\public\assets\assets\gridtile_3x3_white.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/plugins/revslider/public/assets/assets/coloredbg.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\revslider\public\assets\assets\coloredbg.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/plugins/revslider/public/assets/assets/loader.gif
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\revslider\public\assets\assets\loader.gif
+Content Type: image/gif
+
+Uri: https://air4cool.com/wp-content/plugins/download-monitor/assets/images/filetypes/document.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\download-monitor\assets\images\filetypes\document.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/plugins/download-monitor/assets/images/filetypes/document-pdf.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\download-monitor\assets\images\filetypes\document-pdf.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/plugins/download-monitor/assets/images/filetypes/document-music.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\download-monitor\assets\images\filetypes\document-music.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/plugins/download-monitor/assets/images/filetypes/document-film.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\download-monitor\assets\images\filetypes\document-film.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/plugins/download-monitor/assets/images/filetypes/document-zipper.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\download-monitor\assets\images\filetypes\document-zipper.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/plugins/download-monitor/assets/images/filetypes/document-excel.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\download-monitor\assets\images\filetypes\document-excel.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/plugins/download-monitor/assets/images/filetypes/document-word-text.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\download-monitor\assets\images\filetypes\document-word-text.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/plugins/download-monitor/assets/images/filetypes/document-illustrator.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\download-monitor\assets\images\filetypes\document-illustrator.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/plugins/download-monitor/assets/images/filetypes/document-flash-movie.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\download-monitor\assets\images\filetypes\document-flash-movie.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/plugins/download-monitor/assets/images/filetypes/document-image.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\download-monitor\assets\images\filetypes\document-image.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/plugins/download-monitor/assets/images/filetypes/document-photoshop.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\download-monitor\assets\images\filetypes\document-photoshop.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/plugins/download-monitor/assets/images/filetypes/document-powerpoint.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\download-monitor\assets\images\filetypes\document-powerpoint.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/plugins/download-monitor/assets/images/filetypes/document-code.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\download-monitor\assets\images\filetypes\document-code.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/plugins/download-monitor/assets/images/filetypes/document-text-image.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\download-monitor\assets\images\filetypes\document-text-image.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/plugins/download-monitor/assets/images/filetypes/document-text.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\download-monitor\assets\images\filetypes\document-text.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\font-awesome\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/font-awesome/fonts/fontawesome-webfont.eot?
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\font-awesome\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\font-awesome\fonts\fontawesome-webfont.bin
+Content Type: application/octet-stream
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\font-awesome\fonts\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\font-awesome\fonts\fontawesome-webfont-1.bin
+Content Type: application/octet-stream
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\font-awesome\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/elegant-icons/fonts/ElegantIcons.eot
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\elegant-icons\fonts\ElegantIcons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/elegant-icons/fonts/ElegantIcons.eot?
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\elegant-icons\fonts\ElegantIcons-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/elegant-icons/fonts/ElegantIcons.woff
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\elegant-icons\fonts\ElegantIcons.woff
+Content Type: application/font-woff
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/elegant-icons/fonts/ElegantIcons.ttf
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\elegant-icons\fonts\ElegantIcons.bin
+Content Type: application/octet-stream
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/elegant-icons/fonts/ElegantIcons.svg
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\elegant-icons\fonts\ElegantIcons.svg
+Content Type: image/svg+xml
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/linea-icons/arrows/fonts/linea-arrows-10.eot
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\linea-icons\arrows\fonts\linea-arrows-10.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/linea-icons/arrows/fonts/linea-arrows-10.eot?
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\linea-icons\arrows\fonts\linea-arrows-10-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/linea-icons/arrows/fonts/linea-arrows-10.woff
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\linea-icons\arrows\fonts\linea-arrows-10.woff
+Content Type: application/font-woff
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/linea-icons/arrows/fonts/linea-arrows-10.ttf
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\linea-icons\arrows\fonts\linea-arrows-10.bin
+Content Type: application/octet-stream
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/linea-icons/arrows/fonts/linea-arrows-10.svg
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\linea-icons\arrows\fonts\linea-arrows-10.svg
+Content Type: image/svg+xml
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/linea-icons/basic/fonts/linea-basic-10.eot
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\linea-icons\basic\fonts\linea-basic-10.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/linea-icons/basic/fonts/linea-basic-10.eot?
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\linea-icons\basic\fonts\linea-basic-10-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/linea-icons/basic/fonts/linea-basic-10.woff
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\linea-icons\basic\fonts\linea-basic-10.woff
+Content Type: application/font-woff
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/linea-icons/basic/fonts/linea-basic-10.ttf
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\linea-icons\basic\fonts\linea-basic-10.bin
+Content Type: application/octet-stream
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/linea-icons/basic/fonts/linea-basic-10.svg
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\linea-icons\basic\fonts\linea-basic-10.svg
+Content Type: image/svg+xml
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/linea-icons/basic-elaboration/fonts/linea-basic-elaboration-10.eot
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\linea-icons\basic-elaboration\fonts\linea-basic-elaboration-10.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/linea-icons/basic-elaboration/fonts/linea-basic-elaboration-10.eot?
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\linea-icons\basic-elaboration\fonts\linea-basic-elaboration-10-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/linea-icons/basic-elaboration/fonts/linea-basic-elaboration-10.woff
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\linea-icons\basic-elaboration\fonts\linea-basic-elaboration-10.woff
+Content Type: application/font-woff
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/linea-icons/basic-elaboration/fonts/linea-basic-elaboration-10.ttf
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\linea-icons\basic-elaboration\fonts\linea-basic-elaboration-10.bin
+Content Type: application/octet-stream
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/linea-icons/basic-elaboration/fonts/linea-basic-elaboration-10.svg
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\linea-icons\basic-elaboration\fonts\linea-basic-elaboration-10.svg
+Content Type: image/svg+xml
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/linea-icons/ecommerce/fonts/linea-ecommerce-10.eot
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\linea-icons\ecommerce\fonts\linea-ecommerce-10.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/linea-icons/ecommerce/fonts/linea-ecommerce-10.eot?
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\linea-icons\ecommerce\fonts\linea-ecommerce-10-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/linea-icons/ecommerce/fonts/linea-ecommerce-10.woff
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\linea-icons\ecommerce\fonts\linea-ecommerce-10.woff
+Content Type: application/font-woff
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/linea-icons/ecommerce/fonts/linea-ecommerce-10.ttf
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\linea-icons\ecommerce\fonts\linea-ecommerce-10.bin
+Content Type: application/octet-stream
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/linea-icons/ecommerce/fonts/linea-ecommerce-10.svg
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\linea-icons\ecommerce\fonts\linea-ecommerce-10.svg
+Content Type: image/svg+xml
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/linea-icons/music/fonts/linea-music-10.eot
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\linea-icons\music\fonts\linea-music-10.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/linea-icons/music/fonts/linea-music-10.eot?
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\linea-icons\music\fonts\linea-music-10-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/linea-icons/music/fonts/linea-music-10.woff
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\linea-icons\music\fonts\linea-music-10.woff
+Content Type: application/font-woff
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/linea-icons/music/fonts/linea-music-10.ttf
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\linea-icons\music\fonts\linea-music-10.bin
+Content Type: application/octet-stream
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/linea-icons/music/fonts/linea-music-10.svg
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\linea-icons\music\fonts\linea-music-10.svg
+Content Type: image/svg+xml
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/linea-icons/software/fonts/linea-software-10.eot
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\linea-icons\software\fonts\linea-software-10.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/linea-icons/software/fonts/linea-software-10.eot?
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\linea-icons\software\fonts\linea-software-10-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/linea-icons/software/fonts/linea-software-10.woff
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\linea-icons\software\fonts\linea-software-10.woff
+Content Type: application/font-woff
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/linea-icons/software/fonts/linea-software-10.ttf
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\linea-icons\software\fonts\linea-software-10.bin
+Content Type: application/octet-stream
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/linea-icons/software/fonts/linea-software-10.svg
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\linea-icons\software\fonts\linea-software-10.svg
+Content Type: image/svg+xml
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/linea-icons/weather/fonts/linea-weather-10.eot
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\linea-icons\weather\fonts\linea-weather-10.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/linea-icons/weather/fonts/linea-weather-10.eot?
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\linea-icons\weather\fonts\linea-weather-10-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/linea-icons/weather/fonts/linea-weather-10.woff
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\linea-icons\weather\fonts\linea-weather-10.woff
+Content Type: application/font-woff
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/linea-icons/weather/fonts/linea-weather-10.ttf
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\linea-icons\weather\fonts\linea-weather-10.bin
+Content Type: application/octet-stream
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/linea-icons/weather/fonts/linea-weather-10.svg
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\linea-icons\weather\fonts\linea-weather-10.svg
+Content Type: image/svg+xml
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/dripicons/fonts/dripicons-v2.eot
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\dripicons\fonts\dripicons-v2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/dripicons/fonts/dripicons-v2.eot?
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\dripicons\fonts\dripicons-v2-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/dripicons/fonts/dripicons-v2.woff
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\dripicons\fonts\dripicons-v2.woff
+Content Type: application/font-woff
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/dripicons/fonts/dripicons-v2.ttf
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\dripicons\fonts\dripicons-v2.bin
+Content Type: application/octet-stream
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/dripicons/fonts/dripicons-v2.svg
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\dripicons\fonts\dripicons-v2.svg
+Content Type: image/svg+xml
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/pixel-video.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\pixel-video.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/portfolio_list_button.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\portfolio_list_button.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/portfolio_list_button_hover.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\portfolio_list_button_hover.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/portfolio_list_button@1_5x.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\portfolio_list_button@1_5x.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/portfolio_list_button_hover@1_5x.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\portfolio_list_button_hover@1_5x.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/portfolio_list_button@2x.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\portfolio_list_button@2x.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/portfolio_list_button_hover@2x.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\portfolio_list_button_hover@2x.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/button-bg-px.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\button-bg-px.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/cursor_plus.cur
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\cursor_plus.cur
+Content Type: 
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/cursor_plus.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\cursor_plus.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/desaturate.svg
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\desaturate.svg
+Content Type: image/svg+xml
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/plus.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\plus.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/minus.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\minus.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/plus@1_5x.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\plus@1_5x.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/minus@1_5x.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\minus@1_5x.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/plus@2x.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\plus@2x.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/minus@2x.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\minus@2x.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/close_side_menu.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\close_side_menu.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/close_side_menu@2x.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\close_side_menu@2x.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/close_side_menu_dark.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\close_side_menu_dark.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/close_side_menu_dark@2x.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\close_side_menu_dark@2x.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/prettyPhoto/sprite.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\prettyPhoto\sprite.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/prettyPhoto/sprite_x.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\prettyPhoto\sprite_x.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/prettyPhoto/sprite_y.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\prettyPhoto\sprite_y.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/prettyPhoto/sprite_next.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\prettyPhoto\sprite_next.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/prettyPhoto/sprite_prev.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\prettyPhoto\sprite_prev.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/prettyPhoto/default_thumb.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\prettyPhoto\default_thumb.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/prettyPhoto/loader.gif
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\prettyPhoto\loader.gif
+Content Type: image/gif
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/audio/controls.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\audio\controls.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/audio/play.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\audio\play.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/audio/pause.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\audio\pause.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/audio/stop.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\audio\stop.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/audio/sound.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\audio\sound.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/audio/mute.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\audio\mute.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/wc_select_arrow.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\wc_select_arrow.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/wc_select_arrow_footer.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\wc_select_arrow_footer.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/frame_arrow_right.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\frame_arrow_right.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/frame_arrow_right_hover.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\frame_arrow_right_hover.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/frame_arrow_left.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\frame_arrow_left.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/frame_arrow_left_hover.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\frame_arrow_left_hover.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/frame_arrow_left@1_5x.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\frame_arrow_left@1_5x.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/frame_arrow_left_hover@1_5x.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\frame_arrow_left_hover@1_5x.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/frame_arrow_right@1_5x.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\frame_arrow_right@1_5x.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/frame_arrow_right_hover@1_5x.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\frame_arrow_right_hover@1_5x.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/frame_arrow_left@2x.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\frame_arrow_left@2x.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/frame_arrow_left_hover@2x.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\frame_arrow_left_hover@2x.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/frame_arrow_right@2x.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\frame_arrow_right@2x.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/frame_arrow_right_hover@2x.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\frame_arrow_right_hover@2x.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/content_menu_arrow.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\content_menu_arrow.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/vertical_menu_cross.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\vertical_menu_cross.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/vertical_menu_minus.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\vertical_menu_minus.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/vertical_menu_cross_white.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\vertical_menu_cross_white.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/vertical_menu_minus_white.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\vertical_menu_minus_white.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/vertical_menu_cross_black.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\vertical_menu_cross_black.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/vertical_menu_minus_black.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\vertical_menu_minus_black.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/vertical_menu_cross@1_5x.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\vertical_menu_cross@1_5x.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/vertical_menu_minus@1_5x.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\vertical_menu_minus@1_5x.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/vertical_menu_cross_white@1_5x.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\vertical_menu_cross_white@1_5x.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/vertical_menu_minus_white@1_5x.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\vertical_menu_minus_white@1_5x.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/vertical_menu_cross_black@1_5x.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\vertical_menu_cross_black@1_5x.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/vertical_menu_minus_black@1_5x.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\vertical_menu_minus_black@1_5x.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/vertical_menu_cross@2x.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\vertical_menu_cross@2x.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/vertical_menu_minus@2x.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\vertical_menu_minus@2x.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/vertical_menu_cross_white@2x.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\vertical_menu_cross_white@2x.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/vertical_menu_minus_white@2x.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\vertical_menu_minus_white@2x.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/vertical_menu_cross_black@2x.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\vertical_menu_cross_black@2x.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/vertical_menu_minus_black@2x.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\vertical_menu_minus_black@2x.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/themes/bridge/css/img/mds-phone-top.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\themes\bridge\css\img\mds-phone-top.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/plugins/js_composer/assets/vc/alert.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\js_composer\assets\vc\alert.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/plugins/js_composer/assets/vc/info.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\js_composer\assets\vc\info.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/plugins/js_composer/assets/vc/tick.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\js_composer\assets\vc\tick.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/plugins/js_composer/assets/vc/exclamation.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\js_composer\assets\vc\exclamation.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/plugins/js_composer/assets/images/icons/address-book.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\js_composer\assets\images\icons\address-book.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/plugins/js_composer/assets/images/icons/alarm-clock.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\js_composer\assets\images\icons\alarm-clock.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/plugins/js_composer/assets/images/icons/anchor.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\js_composer\assets\images\icons\anchor.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/plugins/js_composer/assets/images/icons/application-image.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\js_composer\assets\images\icons\application-image.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/plugins/js_composer/assets/images/icons/arrow.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\js_composer\assets\images\icons\arrow.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/plugins/js_composer/assets/images/icons/asterisk.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\js_composer\assets\images\icons\asterisk.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/plugins/js_composer/assets/images/icons/auction-hammer.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\js_composer\assets\images\icons\auction-hammer.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/plugins/js_composer/assets/images/icons/balloon.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\js_composer\assets\images\icons\balloon.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/plugins/js_composer/assets/images/icons/balloon-buzz.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\js_composer\assets\images\icons\balloon-buzz.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/plugins/js_composer/assets/images/icons/balloon-facebook.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\js_composer\assets\images\icons\balloon-facebook.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/plugins/js_composer/assets/images/icons/balloon-twitter.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\js_composer\assets\images\icons\balloon-twitter.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/plugins/js_composer/assets/images/icons/battery-full.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\js_composer\assets\images\icons\battery-full.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/plugins/js_composer/assets/images/icons/binocular.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\js_composer\assets\images\icons\binocular.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/plugins/js_composer/assets/images/icons/blue-document-excel.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\js_composer\assets\images\icons\blue-document-excel.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/plugins/js_composer/assets/images/icons/blue-document-image.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\js_composer\assets\images\icons\blue-document-image.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/plugins/js_composer/assets/images/icons/blue-document-music.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\js_composer\assets\images\icons\blue-document-music.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/plugins/js_composer/assets/images/icons/blue-document-office.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\js_composer\assets\images\icons\blue-document-office.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/plugins/js_composer/assets/images/icons/blue-document-pdf.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\js_composer\assets\images\icons\blue-document-pdf.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/plugins/js_composer/assets/images/icons/blue-document-powerpoint.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\js_composer\assets\images\icons\blue-document-powerpoint.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/plugins/js_composer/assets/images/icons/blue-document-word.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\js_composer\assets\images\icons\blue-document-word.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/plugins/js_composer/assets/images/icons/bookmark.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\js_composer\assets\images\icons\bookmark.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/plugins/js_composer/assets/images/icons/camcorder.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\js_composer\assets\images\icons\camcorder.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/plugins/js_composer/assets/images/icons/camera.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\js_composer\assets\images\icons\camera.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/plugins/js_composer/assets/images/icons/chart.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\js_composer\assets\images\icons\chart.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/plugins/js_composer/assets/images/icons/chart-pie.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\js_composer\assets\images\icons\chart-pie.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/plugins/js_composer/assets/images/icons/clock.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\js_composer\assets\images\icons\clock.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/plugins/js_composer/assets/images/icons/control.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\js_composer\assets\images\icons\control.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/plugins/js_composer/assets/images/icons/fire.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\js_composer\assets\images\icons\fire.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/plugins/js_composer/assets/images/icons/heart.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\js_composer\assets\images\icons\heart.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/plugins/js_composer/assets/images/icons/mail.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\js_composer\assets\images\icons\mail.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/plugins/js_composer/assets/images/icons/plus-shield.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\js_composer\assets\images\icons\plus-shield.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/plugins/js_composer/assets/images/icons/video.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\js_composer\assets\images\icons\video.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.ttf?i5rhx5
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\js_composer\assets\fonts\vc_icons_v2\fonts\vcpb-plugin-icons.bin
+Content Type: application/octet-stream
+
+Uri: https://air4cool.com/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.woff?i5rhx5
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\js_composer\assets\fonts\vc_icons_v2\fonts\vcpb-plugin-icons.woff
+Content Type: application/font-woff
+
+Uri: https://air4cool.com/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.svg?i5rhx5
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\js_composer\assets\fonts\vc_icons_v2\fonts\vcpb-plugin-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://air4cool.com/wp-content/plugins/js_composer/assets/images/toggle_open.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\js_composer\assets\images\toggle_open.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/plugins/js_composer/assets/images/toggle_close.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\js_composer\assets\images\toggle_close.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/plugins/js_composer/assets/images/flickr.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\js_composer\assets\images\flickr.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.eot?-9hbgac
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://air4cool.com/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.eot?
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://air4cool.com/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.woff?-9hbgac
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1.woff
+Content Type: application/font-woff
+
+Uri: https://air4cool.com/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.ttf?-9hbgac
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1.bin
+Content Type: application/octet-stream
+
+Uri: https://air4cool.com/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.svg?-9hbgac
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1.svg
+Content Type: image/svg+xml
+
+Uri: https://air4cool.com/wp-content/plugins/js_composer/assets/images/spinner.gif
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\js_composer\assets\images\spinner.gif
+Content Type: image/gif
+
+Uri: https://air4cool.com/wp-content/plugins/js_composer/assets/vc/remove.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\js_composer\assets\vc\remove.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2Fcomo-funciona%2F
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-1.json
+Content Type: application/json
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2Fcomo-funciona%2F&format=xml
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-1.xml
+Content Type: text/xml
+
+Uri: https://air4cool.com/wp-content/uploads/2018/07/ComoFunciona-300x180.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\07\ComoFunciona-300x180.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/06/sun.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\06\sun.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/06/Distribucion-agua.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\06\Distribucion-agua.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/07/ComoFunciona-768x461.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\07\ComoFunciona-768x461.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/07/ComoFunciona.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\07\ComoFunciona.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/07/ComoFunciona-700x420.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\07\ComoFunciona-700x420.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2Fequipos%2F
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-2.json
+Content Type: application/json
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2Fequipos%2F&format=xml
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-2.xml
+Content Type: text/xml
+
+Uri: https://air4cool.com/download/785/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\download\785\CataÌlogo-A4C-NUEVO.pdf
+Content Type: application/pdf
+
+Uri: https://air4cool.com/wp-content/uploads/2018/07/Down.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\07\Down.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/07/Top.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\07\Top.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/07/Side.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\07\Side.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/06/Motor.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\06\Motor.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/06/Motor-1.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\06\Motor-1.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/06/caja-electronica.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\06\caja-electronica.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/06/Ventilador.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\06\Ventilador.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/06/Display.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\06\Display.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/06/Estructura.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\06\Estructura.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/06/remote-control-copia.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\06\remote-control-copia.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/06/Desconector.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\06\Desconector.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2Fequipos-portatiles%2F
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-3.json
+Content Type: application/json
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2Fequipos-portatiles%2F&format=xml
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-3.xml
+Content Type: text/xml
+
+Uri: https://air4cool.com/download/789/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\download\789\Ficha-comercial-Hurricane..pdf
+Content Type: application/pdf
+
+Uri: https://air4cool.com/2019/04/08/sera-2019-el-ano-mas-calido-registrado-2/feed/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\2019\04\08\sera-2019-el-ano-mas-calido-registrado-2\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2F2019%2F04%2F08%2Fsera-2019-el-ano-mas-calido-registrado-2%2F
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-4.json
+Content Type: application/json
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2F2019%2F04%2F08%2Fsera-2019-el-ano-mas-calido-registrado-2%2F&format=xml
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-4.xml
+Content Type: text/xml
+
+Uri: https://air4cool.com/author/biosolutions/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\author\biosolutions\index.htm
+Content Type: text/html
+
+Uri: https://air4cool.com/tag/agua/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\tag\agua\index.htm
+Content Type: text/html
+
+Uri: https://air4cool.com/tag/ahorro/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\tag\ahorro\index.htm
+Content Type: text/html
+
+Uri: https://air4cool.com/tag/ahorro-energetico/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\tag\ahorro-energetico\index.htm
+Content Type: text/html
+
+Uri: https://air4cool.com/tag/aire-fresco/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\tag\aire-fresco\index.htm
+Content Type: text/html
+
+Uri: https://air4cool.com/tag/ambiental/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\tag\ambiental\index.htm
+Content Type: text/html
+
+Uri: https://air4cool.com/tag/climatizacion/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\tag\climatizacion\index.htm
+Content Type: text/html
+
+Uri: https://air4cool.com/tag/ecologico/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\tag\ecologico\index.htm
+Content Type: text/html
+
+Uri: https://air4cool.com/tag/eficiencia/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\tag\eficiencia\index.htm
+Content Type: text/html
+
+Uri: https://air4cool.com/tag/evaporativos/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\tag\evaporativos\index.htm
+Content Type: text/html
+
+Uri: https://air4cool.com/tag/natural/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\tag\natural\index.htm
+Content Type: text/html
+
+Uri: https://air4cool.com/wp-content/uploads/2019/04/nino1-300x113.jpg
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2019\04\nino1-300x113.jpg
+Content Type: image/jpeg
+
+Uri: https://air4cool.com/wp-content/uploads/2018/06/Coomo-funciona-300x189.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\06\Coomo-funciona-300x189.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/06/Logo-A4C-sin-fondo-300x96.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\06\Logo-A4C-sin-fondo-300x96.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/plugins/akismet/_inc/form.js?ver=4.1
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\plugins\akismet\_inc\form.js
+Content Type: application/javascript
+
+Uri: https://air4cool.com/wp-content/uploads/2019/04/nino1.jpg
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2019\04\nino1.jpg
+Content Type: image/jpeg
+
+Uri: https://air4cool.com/wp-content/uploads/2018/06/Coomo-funciona-768x484.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\06\Coomo-funciona-768x484.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/06/Coomo-funciona-700x441.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\06\Coomo-funciona-700x441.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/06/Coomo-funciona.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\06\Coomo-funciona.png
+Content Type: image/png
+
+Uri: https://air4cool.com/category/sin-categoria/page/2/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\category\sin-categoria\page\2\index.htm
+Content Type: text/html
+
+Uri: https://air4cool.com/category/sin-categoria/feed/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\category\sin-categoria\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://air4cool.com/2018/04/18/el-agua-en-la-climatizacion/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\2018\04\18\el-agua-en-la-climatizacion\index.htm
+Content Type: text/html
+
+Uri: https://air4cool.com/author/a4c/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\author\a4c\index.htm
+Content Type: text/html
+
+Uri: https://air4cool.com/2017/12/20/ya-se-encuentra-disponible-la-nueva-app-air4cool-de-biosolutions/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\2017\12\20\ya-se-encuentra-disponible-la-nueva-app-air4cool-de-biosolutions\index.htm
+Content Type: text/html
+
+Uri: https://air4cool.com/2017/12/14/climatizacion-evaporativa-una-cuestion-de-economia/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\2017\12\14\climatizacion-evaporativa-una-cuestion-de-economia\index.htm
+Content Type: text/html
+
+Uri: https://air4cool.com/2017/11/14/el-hospital-arnau-de-vilanova-apuesta-por-los-sistemas-evaporativos-air4cool/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\2017\11\14\el-hospital-arnau-de-vilanova-apuesta-por-los-sistemas-evaporativos-air4cool\index.htm
+Content Type: text/html
+
+Uri: https://air4cool.com/2017/09/18/los-sistemas-evaporativos-air4cool-ideales-para-centros-logisticos/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\2017\09\18\los-sistemas-evaporativos-air4cool-ideales-para-centros-logisticos\index.htm
+Content Type: text/html
+
+Uri: https://air4cool.com/2017/09/07/los-sistemas-evaporativos-air4cool-ideales-para-centros-logisticos-2/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\2017\09\07\los-sistemas-evaporativos-air4cool-ideales-para-centros-logisticos-2\index.htm
+Content Type: text/html
+
+Uri: https://air4cool.com/category/sin-categoria/page/3/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\category\sin-categoria\page\3\index.htm
+Content Type: text/html
+
+Uri: https://air4cool.com/wp-content/uploads/2019/04/light-bulb-503881.jpg
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2019\04\light-bulb-503881.jpg
+Content Type: image/jpeg
+
+Uri: https://air4cool.com/wp-content/uploads/2018/06/Iphone_App-e1529770004560.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\06\Iphone_App-e1529770004560.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/08/earth-2581631_1920.jpg
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\08\earth-2581631_1920.jpg
+Content Type: image/jpeg
+
+Uri: https://air4cool.com/wp-content/uploads/2018/04/GotasAgua-e1529691311966.jpg
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\04\GotasAgua-e1529691311966.jpg
+Content Type: image/jpeg
+
+Uri: https://air4cool.com/wp-content/uploads/2017/12/BlogApp.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2017\12\BlogApp.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2017/12/BlogAhorroEuros.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2017\12\BlogAhorroEuros.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2017/11/Hospital-Arnau-de-Vilanova.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2017\11\Hospital-Arnau-de-Vilanova.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2017/09/Centros-logisticos.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2017\09\Centros-logisticos.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/07/Eficiencia-energetica.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\07\Eficiencia-energetica.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2019/04/light-bulb-503881-300x198.jpg
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2019\04\light-bulb-503881-300x198.jpg
+Content Type: image/jpeg
+
+Uri: https://air4cool.com/wp-content/uploads/2019/04/light-bulb-503881-768x506.jpg
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2019\04\light-bulb-503881-768x506.jpg
+Content Type: image/jpeg
+
+Uri: https://air4cool.com/wp-content/uploads/2019/04/light-bulb-503881-1024x675.jpg
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2019\04\light-bulb-503881-1024x675.jpg
+Content Type: image/jpeg
+
+Uri: https://air4cool.com/wp-content/uploads/2019/04/light-bulb-503881-700x462.jpg
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2019\04\light-bulb-503881-700x462.jpg
+Content Type: image/jpeg
+
+Uri: https://air4cool.com/wp-content/uploads/2018/08/earth-2581631_1920-300x186.jpg
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\08\earth-2581631_1920-300x186.jpg
+Content Type: image/jpeg
+
+Uri: https://air4cool.com/wp-content/uploads/2018/08/earth-2581631_1920-768x477.jpg
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\08\earth-2581631_1920-768x477.jpg
+Content Type: image/jpeg
+
+Uri: https://air4cool.com/wp-content/uploads/2018/08/earth-2581631_1920-1024x636.jpg
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\08\earth-2581631_1920-1024x636.jpg
+Content Type: image/jpeg
+
+Uri: https://air4cool.com/wp-content/uploads/2018/08/earth-2581631_1920-700x435.jpg
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\08\earth-2581631_1920-700x435.jpg
+Content Type: image/jpeg
+
+Uri: https://air4cool.com/wp-content/uploads/2017/12/BlogApp-300x200.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2017\12\BlogApp-300x200.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2017/12/BlogApp-768x512.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2017\12\BlogApp-768x512.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2017/12/BlogApp-700x467.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2017\12\BlogApp-700x467.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2017/12/BlogAhorroEuros-300x200.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2017\12\BlogAhorroEuros-300x200.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2017/12/BlogAhorroEuros-768x512.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2017\12\BlogAhorroEuros-768x512.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2017/12/BlogAhorroEuros-700x467.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2017\12\BlogAhorroEuros-700x467.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2017/11/Hospital-Arnau-de-Vilanova-300x200.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2017\11\Hospital-Arnau-de-Vilanova-300x200.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2017/11/Hospital-Arnau-de-Vilanova-768x512.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2017\11\Hospital-Arnau-de-Vilanova-768x512.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2017/11/Hospital-Arnau-de-Vilanova-700x467.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2017\11\Hospital-Arnau-de-Vilanova-700x467.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2017/09/Centros-logisticos-300x200.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2017\09\Centros-logisticos-300x200.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2017/09/Centros-logisticos-768x512.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2017\09\Centros-logisticos-768x512.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2017/09/Centros-logisticos-700x467.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2017\09\Centros-logisticos-700x467.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/07/Eficiencia-energetica-300x200.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\07\Eficiencia-energetica-300x200.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/07/Eficiencia-energetica-768x512.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\07\Eficiencia-energetica-768x512.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/07/Eficiencia-energetica-700x467.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\07\Eficiencia-energetica-700x467.png
+Content Type: image/png
+
+Uri: https://air4cool.com/2019/04/03/sube-de-la-luz-pero-no-su-factura/feed/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\2019\04\03\sube-de-la-luz-pero-no-su-factura\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2F2019%2F04%2F03%2Fsube-de-la-luz-pero-no-su-factura%2F
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-5.json
+Content Type: application/json
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2F2019%2F04%2F03%2Fsube-de-la-luz-pero-no-su-factura%2F&format=xml
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-5.xml
+Content Type: text/xml
+
+Uri: https://air4cool.com/tag/limpio/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\tag\limpio\index.htm
+Content Type: text/html
+
+Uri: https://air4cool.com/wp-content/uploads/2019/04/light-bulb-2631864-300x187.jpg
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2019\04\light-bulb-2631864-300x187.jpg
+Content Type: image/jpeg
+
+Uri: https://air4cool.com/wp-content/uploads/2019/04/light-bulb-2631864-768x477.jpg
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2019\04\light-bulb-2631864-768x477.jpg
+Content Type: image/jpeg
+
+Uri: https://air4cool.com/wp-content/uploads/2019/04/light-bulb-2631864-1024x637.jpg
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2019\04\light-bulb-2631864-1024x637.jpg
+Content Type: image/jpeg
+
+Uri: https://air4cool.com/wp-content/uploads/2019/04/light-bulb-2631864-700x435.jpg
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2019\04\light-bulb-2631864-700x435.jpg
+Content Type: image/jpeg
+
+Uri: https://air4cool.com/2018/10/18/funcionaran-bien-los-equipos-evaporativos-en-mi-localidad-app-air4cool/feed/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\2018\10\18\funcionaran-bien-los-equipos-evaporativos-en-mi-localidad-app-air4cool\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2F2018%2F10%2F18%2Ffuncionaran-bien-los-equipos-evaporativos-en-mi-localidad-app-air4cool%2F
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-6.json
+Content Type: application/json
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2F2018%2F10%2F18%2Ffuncionaran-bien-los-equipos-evaporativos-en-mi-localidad-app-air4cool%2F&format=xml
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-6.xml
+Content Type: text/xml
+
+Uri: https://air4cool.com/tag/aplicacion/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\tag\aplicacion\index.htm
+Content Type: text/html
+
+Uri: https://air4cool.com/wp-content/uploads/2018/06/Iphone_App-300x153.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\06\Iphone_App-300x153.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/06/googplay-300x81.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\06\googplay-300x81.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/06/appstore-300x85.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\06\appstore-300x85.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/06/googplay.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\06\googplay.png
+Content Type: image/png
+
+Uri: https://air4cool.com/blog/page/2/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\blog\page\2\index.htm
+Content Type: text/html
+
+Uri: https://air4cool.com/blog/page/3/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\blog\page\3\index.htm
+Content Type: text/html
+
+Uri: https://air4cool.com/2018/08/30/importancia-ahorro-energetico/feed/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\2018\08\30\importancia-ahorro-energetico\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2F2018%2F08%2F30%2Fimportancia-ahorro-energetico%2F
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-7.json
+Content Type: application/json
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2F2018%2F08%2F30%2Fimportancia-ahorro-energetico%2F&format=xml
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-7.xml
+Content Type: text/xml
+
+Uri: https://air4cool.com/wp-content/uploads/2018/08/comparativa-AC-copia-300x249.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\08\comparativa-AC-copia-300x249.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/08/comparativa-AC-copia.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\08\comparativa-AC-copia.png
+Content Type: image/png
+
+Uri: https://air4cool.com/politica-privacidad/feed/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\politica-privacidad\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2Fpolitica-privacidad%2F
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-8.json
+Content Type: application/json
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2Fpolitica-privacidad%2F&format=xml
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-8.xml
+Content Type: text/xml
+
+Uri: https://air4cool.com/aviso-legal/feed/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\aviso-legal\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2Faviso-legal%2F
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-9.json
+Content Type: application/json
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2Faviso-legal%2F&format=xml
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-9.xml
+Content Type: text/xml
+
+Uri: https://air4cool.com/cookies/feed/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\cookies\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2Fcookies%2F
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-10.json
+Content Type: application/json
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2Fcookies%2F&format=xml
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-10.xml
+Content Type: text/xml
+
+Uri: https://air4cool.com/author/biosolutions/feed/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\author\biosolutions\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://air4cool.com/tag/agua/feed/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\tag\agua\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://air4cool.com/tag/ahorro/feed/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\tag\ahorro\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://air4cool.com/tag/ahorro-energetico/feed/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\tag\ahorro-energetico\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://air4cool.com/tag/aire-fresco/feed/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\tag\aire-fresco\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://air4cool.com/tag/ambiental/feed/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\tag\ambiental\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://air4cool.com/tag/climatizacion/feed/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\tag\climatizacion\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://air4cool.com/tag/ecologico/feed/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\tag\ecologico\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://air4cool.com/tag/eficiencia/feed/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\tag\eficiencia\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://air4cool.com/tag/evaporativos/feed/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\tag\evaporativos\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://air4cool.com/tag/natural/feed/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\tag\natural\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://air4cool.com/2017/08/31/air4cool-climatizacion-eficaz-y-recomendada-para-residencias-de-mayores-y-centros-de-rehabilitacion/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\2017\08\31\air4cool-climatizacion-eficaz-y-recomendada-para-residencias-de-mayores-y-centros-de-rehabilitacion\index.htm
+Content Type: text/html
+
+Uri: https://air4cool.com/2017/08/24/falsos-mitos-sobre-la-climatizacion-evaporativa/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\2017\08\24\falsos-mitos-sobre-la-climatizacion-evaporativa\index.htm
+Content Type: text/html
+
+Uri: https://air4cool.com/2017/08/17/comparativa-entre-los-climatizadores-evaporativos-y-el-aire-acondicionado/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\2017\08\17\comparativa-entre-los-climatizadores-evaporativos-y-el-aire-acondicionado\index.htm
+Content Type: text/html
+
+Uri: https://air4cool.com/2017/08/11/bioclimatizacion-en-almacenes-farmaceuticos/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\2017\08\11\bioclimatizacion-en-almacenes-farmaceuticos\index.htm
+Content Type: text/html
+
+Uri: https://air4cool.com/2017/08/07/climatizacion-zonal-ahorra-enfriando-solo-el-espacio-que-necesites/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\2017\08\07\climatizacion-zonal-ahorra-enfriando-solo-el-espacio-que-necesites\index.htm
+Content Type: text/html
+
+Uri: https://air4cool.com/2017/07/31/climatizacion-evaporativa-la-mejor-solucion-para-granjas/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\2017\07\31\climatizacion-evaporativa-la-mejor-solucion-para-granjas\index.htm
+Content Type: text/html
+
+Uri: https://air4cool.com/2017/07/21/principales-caracteristicas-del-mando-de-control-a4c/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\2017\07\21\principales-caracteristicas-del-mando-de-control-a4c\index.htm
+Content Type: text/html
+
+Uri: https://air4cool.com/2017/07/12/disipando-dudas-sobre-la-legionelosis/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\2017\07\12\disipando-dudas-sobre-la-legionelosis\index.htm
+Content Type: text/html
+
+Uri: https://air4cool.com/2017/07/07/los-equipos-a4c-cuentan-con-sistema-de-autogestion-de-limpieza-del-agua/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\2017\07\07\los-equipos-a4c-cuentan-con-sistema-de-autogestion-de-limpieza-del-agua\index.htm
+Content Type: text/html
+
+Uri: https://air4cool.com/2017/06/30/soluciona-el-inconveniente-del-estres-termico-de-forma-eficiente-economica-y-ecologica/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\2017\06\30\soluciona-el-inconveniente-del-estres-termico-de-forma-eficiente-economica-y-ecologica\index.htm
+Content Type: text/html
+
+Uri: https://air4cool.com/wp-content/uploads/2018/07/Residencias.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\07\Residencias.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/07/Falsos-mitos.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\07\Falsos-mitos.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2017/08/A4Cool-VS-Aire-acondicionado.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2017\08\A4Cool-VS-Aire-acondicionado.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2017/08/Farmacia.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2017\08\Farmacia.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2017/08/Climatizacion-zonal.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2017\08\Climatizacion-zonal.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2017/07/Granja.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2017\07\Granja.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2017/07/Mandos-A4Cool.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2017\07\Mandos-A4Cool.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2017/07/Legionela.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2017\07\Legionela.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2017/07/Limpieza-agua.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2017\07\Limpieza-agua.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2017/06/Estres-termico.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2017\06\Estres-termico.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/07/Residencias-300x200.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\07\Residencias-300x200.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/07/Residencias-768x512.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\07\Residencias-768x512.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/07/Residencias-700x467.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\07\Residencias-700x467.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/07/Falsos-mitos-300x200.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\07\Falsos-mitos-300x200.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/07/Falsos-mitos-768x512.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\07\Falsos-mitos-768x512.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/07/Falsos-mitos-700x467.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\07\Falsos-mitos-700x467.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2017/08/A4Cool-VS-Aire-acondicionado-300x200.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2017\08\A4Cool-VS-Aire-acondicionado-300x200.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2017/08/A4Cool-VS-Aire-acondicionado-768x512.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2017\08\A4Cool-VS-Aire-acondicionado-768x512.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2017/08/A4Cool-VS-Aire-acondicionado-700x467.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2017\08\A4Cool-VS-Aire-acondicionado-700x467.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2017/08/Farmacia-300x200.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2017\08\Farmacia-300x200.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2017/08/Farmacia-768x512.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2017\08\Farmacia-768x512.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2017/08/Farmacia-700x467.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2017\08\Farmacia-700x467.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2017/08/Climatizacion-zonal-300x200.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2017\08\Climatizacion-zonal-300x200.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2017/08/Climatizacion-zonal-768x512.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2017\08\Climatizacion-zonal-768x512.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2017/08/Climatizacion-zonal-700x467.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2017\08\Climatizacion-zonal-700x467.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2017/07/Granja-300x200.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2017\07\Granja-300x200.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2017/07/Granja-768x512.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2017\07\Granja-768x512.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2017/07/Granja-700x467.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2017\07\Granja-700x467.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2017/07/Mandos-A4Cool-300x200.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2017\07\Mandos-A4Cool-300x200.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2017/07/Mandos-A4Cool-768x512.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2017\07\Mandos-A4Cool-768x512.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2017/07/Mandos-A4Cool-700x467.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2017\07\Mandos-A4Cool-700x467.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2017/07/Legionela-300x200.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2017\07\Legionela-300x200.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2017/07/Legionela-768x512.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2017\07\Legionela-768x512.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2017/07/Legionela-700x467.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2017\07\Legionela-700x467.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2017/07/Limpieza-agua-300x200.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2017\07\Limpieza-agua-300x200.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2017/07/Limpieza-agua-768x512.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2017\07\Limpieza-agua-768x512.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2017/07/Limpieza-agua-700x467.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2017\07\Limpieza-agua-700x467.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2017/06/Estres-termico-300x200.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2017\06\Estres-termico-300x200.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2017/06/Estres-termico-768x512.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2017\06\Estres-termico-768x512.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2017/06/Estres-termico-700x467.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2017\06\Estres-termico-700x467.png
+Content Type: image/png
+
+Uri: https://air4cool.com/2018/04/18/el-agua-en-la-climatizacion/feed/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\2018\04\18\el-agua-en-la-climatizacion\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2F2018%2F04%2F18%2Fel-agua-en-la-climatizacion%2F
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-11.json
+Content Type: application/json
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2F2018%2F04%2F18%2Fel-agua-en-la-climatizacion%2F&format=xml
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-11.xml
+Content Type: text/xml
+
+Uri: https://air4cool.com/author/a4c/page/2/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\author\a4c\page\2\index.htm
+Content Type: text/html
+
+Uri: https://air4cool.com/author/a4c/feed/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\author\a4c\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://air4cool.com/author/a4c/page/3/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\author\a4c\page\3\index.htm
+Content Type: text/html
+
+Uri: https://air4cool.com/2017/12/20/ya-se-encuentra-disponible-la-nueva-app-air4cool-de-biosolutions/feed/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\2017\12\20\ya-se-encuentra-disponible-la-nueva-app-air4cool-de-biosolutions\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2F2017%2F12%2F20%2Fya-se-encuentra-disponible-la-nueva-app-air4cool-de-biosolutions%2F
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-12.json
+Content Type: application/json
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2F2017%2F12%2F20%2Fya-se-encuentra-disponible-la-nueva-app-air4cool-de-biosolutions%2F&format=xml
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-12.xml
+Content Type: text/xml
+
+Uri: https://air4cool.com/2017/12/14/climatizacion-evaporativa-una-cuestion-de-economia/feed/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\2017\12\14\climatizacion-evaporativa-una-cuestion-de-economia\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2F2017%2F12%2F14%2Fclimatizacion-evaporativa-una-cuestion-de-economia%2F
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-13.json
+Content Type: application/json
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2F2017%2F12%2F14%2Fclimatizacion-evaporativa-una-cuestion-de-economia%2F&format=xml
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-13.xml
+Content Type: text/xml
+
+Uri: https://air4cool.com/2017/11/14/el-hospital-arnau-de-vilanova-apuesta-por-los-sistemas-evaporativos-air4cool/feed/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\2017\11\14\el-hospital-arnau-de-vilanova-apuesta-por-los-sistemas-evaporativos-air4cool\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2F2017%2F11%2F14%2Fel-hospital-arnau-de-vilanova-apuesta-por-los-sistemas-evaporativos-air4cool%2F
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-14.json
+Content Type: application/json
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2F2017%2F11%2F14%2Fel-hospital-arnau-de-vilanova-apuesta-por-los-sistemas-evaporativos-air4cool%2F&format=xml
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-14.xml
+Content Type: text/xml
+
+Uri: https://air4cool.com/2017/09/18/los-sistemas-evaporativos-air4cool-ideales-para-centros-logisticos/feed/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\2017\09\18\los-sistemas-evaporativos-air4cool-ideales-para-centros-logisticos\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2F2017%2F09%2F18%2Flos-sistemas-evaporativos-air4cool-ideales-para-centros-logisticos%2F
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-15.json
+Content Type: application/json
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2F2017%2F09%2F18%2Flos-sistemas-evaporativos-air4cool-ideales-para-centros-logisticos%2F&format=xml
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-15.xml
+Content Type: text/xml
+
+Uri: https://air4cool.com/2017/09/07/los-sistemas-evaporativos-air4cool-ideales-para-centros-logisticos-2/feed/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\2017\09\07\los-sistemas-evaporativos-air4cool-ideales-para-centros-logisticos-2\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2F2017%2F09%2F07%2Flos-sistemas-evaporativos-air4cool-ideales-para-centros-logisticos-2%2F
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-16.json
+Content Type: application/json
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2F2017%2F09%2F07%2Flos-sistemas-evaporativos-air4cool-ideales-para-centros-logisticos-2%2F&format=xml
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-16.xml
+Content Type: text/xml
+
+Uri: https://air4cool.com/2017/06/27/bioclimatizacion-solucion-ideal-para-el-problema-de-calor-en-los-talleres-de-coches/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\2017\06\27\bioclimatizacion-solucion-ideal-para-el-problema-de-calor-en-los-talleres-de-coches\index.htm
+Content Type: text/html
+
+Uri: https://air4cool.com/2017/06/23/sistemas-evaporativos-air4cool/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\2017\06\23\sistemas-evaporativos-air4cool\index.htm
+Content Type: text/html
+
+Uri: https://air4cool.com/2017/06/19/ventajas-de-la-climatizacion-evaporativa/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\2017\06\19\ventajas-de-la-climatizacion-evaporativa\index.htm
+Content Type: text/html
+
+Uri: https://air4cool.com/2017/06/15/preguntas-frecuentes-3/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\2017\06\15\preguntas-frecuentes-3\index.htm
+Content Type: text/html
+
+Uri: https://air4cool.com/2017/06/08/climatizacion-natural-de-zonas-deportivas-y-recreativas/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\2017\06\08\climatizacion-natural-de-zonas-deportivas-y-recreativas\index.htm
+Content Type: text/html
+
+Uri: https://air4cool.com/2017/06/08/preguntas-frecuentes-2/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\2017\06\08\preguntas-frecuentes-2\index.htm
+Content Type: text/html
+
+Uri: https://air4cool.com/2017/05/30/preguntas-frecuentes/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\2017\05\30\preguntas-frecuentes\index.htm
+Content Type: text/html
+
+Uri: https://air4cool.com/2017/05/26/las-3e-de-nuestro-producto-2/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\2017\05\26\las-3e-de-nuestro-producto-2\index.htm
+Content Type: text/html
+
+Uri: https://air4cool.com/2017/05/19/las-3e-de-nuestro-producto/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\2017\05\19\las-3e-de-nuestro-producto\index.htm
+Content Type: text/html
+
+Uri: https://air4cool.com/2017/04/09/refrigeracion-de-naves-industriales/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\2017\04\09\refrigeracion-de-naves-industriales\index.htm
+Content Type: text/html
+
+Uri: https://air4cool.com/wp-content/uploads/2017/06/Taller.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2017\06\Taller.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/07/A4C-blog.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\07\A4C-blog.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/07/Ventajas-climatizacion.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\07\Ventajas-climatizacion.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2017/06/Interrogantes3.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2017\06\Interrogantes3.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/07/Pabellon.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\07\Pabellon.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2017/06/Interrogantes2.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2017\06\Interrogantes2.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/07/Interrogantes.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\07\Interrogantes.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/07/3E.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\07\3E.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2017/05/Calor.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2017\05\Calor.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/07/Naves-industriales.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\07\Naves-industriales.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2017/06/Taller-300x200.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2017\06\Taller-300x200.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2017/06/Taller-768x512.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2017\06\Taller-768x512.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2017/06/Taller-700x467.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2017\06\Taller-700x467.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/07/A4C-blog-300x200.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\07\A4C-blog-300x200.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/07/A4C-blog-768x512.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\07\A4C-blog-768x512.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/07/A4C-blog-700x467.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\07\A4C-blog-700x467.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/07/Ventajas-climatizacion-300x200.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\07\Ventajas-climatizacion-300x200.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/07/Ventajas-climatizacion-768x512.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\07\Ventajas-climatizacion-768x512.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/07/Ventajas-climatizacion-700x467.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\07\Ventajas-climatizacion-700x467.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2017/06/Interrogantes3-300x200.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2017\06\Interrogantes3-300x200.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2017/06/Interrogantes3-768x512.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2017\06\Interrogantes3-768x512.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2017/06/Interrogantes3-700x467.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2017\06\Interrogantes3-700x467.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/07/Pabellon-300x200.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\07\Pabellon-300x200.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/07/Pabellon-768x512.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\07\Pabellon-768x512.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/07/Pabellon-700x467.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\07\Pabellon-700x467.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2017/06/Interrogantes2-300x200.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2017\06\Interrogantes2-300x200.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2017/06/Interrogantes2-768x512.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2017\06\Interrogantes2-768x512.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2017/06/Interrogantes2-700x467.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2017\06\Interrogantes2-700x467.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/07/Interrogantes-300x200.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\07\Interrogantes-300x200.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/07/Interrogantes-768x512.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\07\Interrogantes-768x512.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/07/Interrogantes-700x467.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\07\Interrogantes-700x467.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/07/3E-300x200.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\07\3E-300x200.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/07/3E-768x512.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\07\3E-768x512.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/07/3E-700x467.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\07\3E-700x467.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2017/05/Calor-300x200.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2017\05\Calor-300x200.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2017/05/Calor-768x512.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2017\05\Calor-768x512.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2017/05/Calor-700x467.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2017\05\Calor-700x467.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/07/Naves-industriales-300x200.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\07\Naves-industriales-300x200.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/07/Naves-industriales-768x512.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\07\Naves-industriales-768x512.png
+Content Type: image/png
+
+Uri: https://air4cool.com/wp-content/uploads/2018/07/Naves-industriales-700x467.png
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-content\uploads\2018\07\Naves-industriales-700x467.png
+Content Type: image/png
+
+Uri: https://air4cool.com/tag/limpio/feed/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\tag\limpio\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://air4cool.com/tag/aplicacion/feed/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\tag\aplicacion\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://air4cool.com/2017/08/31/air4cool-climatizacion-eficaz-y-recomendada-para-residencias-de-mayores-y-centros-de-rehabilitacion/feed/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\2017\08\31\air4cool-climatizacion-eficaz-y-recomendada-para-residencias-de-mayores-y-centros-de-rehabilitacion\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2F2017%2F08%2F31%2Fair4cool-climatizacion-eficaz-y-recomendada-para-residencias-de-mayores-y-centros-de-rehabilitacion%2F
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-17.json
+Content Type: application/json
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2F2017%2F08%2F31%2Fair4cool-climatizacion-eficaz-y-recomendada-para-residencias-de-mayores-y-centros-de-rehabilitacion%2F&format=xml
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-17.xml
+Content Type: text/xml
+
+Uri: https://air4cool.com/2017/08/24/falsos-mitos-sobre-la-climatizacion-evaporativa/feed/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\2017\08\24\falsos-mitos-sobre-la-climatizacion-evaporativa\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2F2017%2F08%2F24%2Ffalsos-mitos-sobre-la-climatizacion-evaporativa%2F
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-18.json
+Content Type: application/json
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2F2017%2F08%2F24%2Ffalsos-mitos-sobre-la-climatizacion-evaporativa%2F&format=xml
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-18.xml
+Content Type: text/xml
+
+Uri: https://air4cool.com/2017/08/17/comparativa-entre-los-climatizadores-evaporativos-y-el-aire-acondicionado/feed/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\2017\08\17\comparativa-entre-los-climatizadores-evaporativos-y-el-aire-acondicionado\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2F2017%2F08%2F17%2Fcomparativa-entre-los-climatizadores-evaporativos-y-el-aire-acondicionado%2F
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-19.json
+Content Type: application/json
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2F2017%2F08%2F17%2Fcomparativa-entre-los-climatizadores-evaporativos-y-el-aire-acondicionado%2F&format=xml
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-19.xml
+Content Type: text/xml
+
+Uri: https://air4cool.com/2017/08/11/bioclimatizacion-en-almacenes-farmaceuticos/feed/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\2017\08\11\bioclimatizacion-en-almacenes-farmaceuticos\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2F2017%2F08%2F11%2Fbioclimatizacion-en-almacenes-farmaceuticos%2F
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-20.json
+Content Type: application/json
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2F2017%2F08%2F11%2Fbioclimatizacion-en-almacenes-farmaceuticos%2F&format=xml
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-20.xml
+Content Type: text/xml
+
+Uri: https://air4cool.com/2017/08/07/climatizacion-zonal-ahorra-enfriando-solo-el-espacio-que-necesites/feed/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\2017\08\07\climatizacion-zonal-ahorra-enfriando-solo-el-espacio-que-necesites\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2F2017%2F08%2F07%2Fclimatizacion-zonal-ahorra-enfriando-solo-el-espacio-que-necesites%2F
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-21.json
+Content Type: application/json
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2F2017%2F08%2F07%2Fclimatizacion-zonal-ahorra-enfriando-solo-el-espacio-que-necesites%2F&format=xml
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-21.xml
+Content Type: text/xml
+
+Uri: https://air4cool.com/2017/07/31/climatizacion-evaporativa-la-mejor-solucion-para-granjas/feed/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\2017\07\31\climatizacion-evaporativa-la-mejor-solucion-para-granjas\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2F2017%2F07%2F31%2Fclimatizacion-evaporativa-la-mejor-solucion-para-granjas%2F
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-22.json
+Content Type: application/json
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2F2017%2F07%2F31%2Fclimatizacion-evaporativa-la-mejor-solucion-para-granjas%2F&format=xml
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-22.xml
+Content Type: text/xml
+
+Uri: https://air4cool.com/2017/07/21/principales-caracteristicas-del-mando-de-control-a4c/feed/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\2017\07\21\principales-caracteristicas-del-mando-de-control-a4c\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2F2017%2F07%2F21%2Fprincipales-caracteristicas-del-mando-de-control-a4c%2F
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-23.json
+Content Type: application/json
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2F2017%2F07%2F21%2Fprincipales-caracteristicas-del-mando-de-control-a4c%2F&format=xml
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-23.xml
+Content Type: text/xml
+
+Uri: https://air4cool.com/2017/07/12/disipando-dudas-sobre-la-legionelosis/feed/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\2017\07\12\disipando-dudas-sobre-la-legionelosis\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2F2017%2F07%2F12%2Fdisipando-dudas-sobre-la-legionelosis%2F
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-24.json
+Content Type: application/json
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2F2017%2F07%2F12%2Fdisipando-dudas-sobre-la-legionelosis%2F&format=xml
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-24.xml
+Content Type: text/xml
+
+Uri: https://air4cool.com/2017/07/07/los-equipos-a4c-cuentan-con-sistema-de-autogestion-de-limpieza-del-agua/feed/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\2017\07\07\los-equipos-a4c-cuentan-con-sistema-de-autogestion-de-limpieza-del-agua\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2F2017%2F07%2F07%2Flos-equipos-a4c-cuentan-con-sistema-de-autogestion-de-limpieza-del-agua%2F
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-25.json
+Content Type: application/json
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2F2017%2F07%2F07%2Flos-equipos-a4c-cuentan-con-sistema-de-autogestion-de-limpieza-del-agua%2F&format=xml
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-25.xml
+Content Type: text/xml
+
+Uri: https://air4cool.com/2017/06/30/soluciona-el-inconveniente-del-estres-termico-de-forma-eficiente-economica-y-ecologica/feed/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\2017\06\30\soluciona-el-inconveniente-del-estres-termico-de-forma-eficiente-economica-y-ecologica\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2F2017%2F06%2F30%2Fsoluciona-el-inconveniente-del-estres-termico-de-forma-eficiente-economica-y-ecologica%2F
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-26.json
+Content Type: application/json
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2F2017%2F06%2F30%2Fsoluciona-el-inconveniente-del-estres-termico-de-forma-eficiente-economica-y-ecologica%2F&format=xml
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-26.xml
+Content Type: text/xml
+
+Uri: https://air4cool.com/2017/06/27/bioclimatizacion-solucion-ideal-para-el-problema-de-calor-en-los-talleres-de-coches/feed/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\2017\06\27\bioclimatizacion-solucion-ideal-para-el-problema-de-calor-en-los-talleres-de-coches\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2F2017%2F06%2F27%2Fbioclimatizacion-solucion-ideal-para-el-problema-de-calor-en-los-talleres-de-coches%2F
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-27.json
+Content Type: application/json
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2F2017%2F06%2F27%2Fbioclimatizacion-solucion-ideal-para-el-problema-de-calor-en-los-talleres-de-coches%2F&format=xml
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-27.xml
+Content Type: text/xml
+
+Uri: https://air4cool.com/2017/06/23/sistemas-evaporativos-air4cool/feed/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\2017\06\23\sistemas-evaporativos-air4cool\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2F2017%2F06%2F23%2Fsistemas-evaporativos-air4cool%2F
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-28.json
+Content Type: application/json
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2F2017%2F06%2F23%2Fsistemas-evaporativos-air4cool%2F&format=xml
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-28.xml
+Content Type: text/xml
+
+Uri: https://air4cool.com/2017/06/19/ventajas-de-la-climatizacion-evaporativa/feed/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\2017\06\19\ventajas-de-la-climatizacion-evaporativa\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2F2017%2F06%2F19%2Fventajas-de-la-climatizacion-evaporativa%2F
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-29.json
+Content Type: application/json
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2F2017%2F06%2F19%2Fventajas-de-la-climatizacion-evaporativa%2F&format=xml
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-29.xml
+Content Type: text/xml
+
+Uri: https://air4cool.com/2017/06/15/preguntas-frecuentes-3/feed/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\2017\06\15\preguntas-frecuentes-3\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2F2017%2F06%2F15%2Fpreguntas-frecuentes-3%2F
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-30.json
+Content Type: application/json
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2F2017%2F06%2F15%2Fpreguntas-frecuentes-3%2F&format=xml
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-30.xml
+Content Type: text/xml
+
+Uri: https://air4cool.com/2017/06/08/climatizacion-natural-de-zonas-deportivas-y-recreativas/feed/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\2017\06\08\climatizacion-natural-de-zonas-deportivas-y-recreativas\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2F2017%2F06%2F08%2Fclimatizacion-natural-de-zonas-deportivas-y-recreativas%2F
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-31.json
+Content Type: application/json
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2F2017%2F06%2F08%2Fclimatizacion-natural-de-zonas-deportivas-y-recreativas%2F&format=xml
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-31.xml
+Content Type: text/xml
+
+Uri: https://air4cool.com/2017/06/08/preguntas-frecuentes-2/feed/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\2017\06\08\preguntas-frecuentes-2\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2F2017%2F06%2F08%2Fpreguntas-frecuentes-2%2F
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-32.json
+Content Type: application/json
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2F2017%2F06%2F08%2Fpreguntas-frecuentes-2%2F&format=xml
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-32.xml
+Content Type: text/xml
+
+Uri: https://air4cool.com/2017/05/30/preguntas-frecuentes/feed/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\2017\05\30\preguntas-frecuentes\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2F2017%2F05%2F30%2Fpreguntas-frecuentes%2F
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-33.json
+Content Type: application/json
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2F2017%2F05%2F30%2Fpreguntas-frecuentes%2F&format=xml
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-33.xml
+Content Type: text/xml
+
+Uri: https://air4cool.com/2017/05/26/las-3e-de-nuestro-producto-2/feed/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\2017\05\26\las-3e-de-nuestro-producto-2\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2F2017%2F05%2F26%2Flas-3e-de-nuestro-producto-2%2F
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-34.json
+Content Type: application/json
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2F2017%2F05%2F26%2Flas-3e-de-nuestro-producto-2%2F&format=xml
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-34.xml
+Content Type: text/xml
+
+Uri: https://air4cool.com/2017/05/19/las-3e-de-nuestro-producto/feed/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\2017\05\19\las-3e-de-nuestro-producto\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2F2017%2F05%2F19%2Flas-3e-de-nuestro-producto%2F
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-35.json
+Content Type: application/json
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2F2017%2F05%2F19%2Flas-3e-de-nuestro-producto%2F&format=xml
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-35.xml
+Content Type: text/xml
+
+Uri: https://air4cool.com/2017/04/09/refrigeracion-de-naves-industriales/feed/
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\2017\04\09\refrigeracion-de-naves-industriales\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2F2017%2F04%2F09%2Frefrigeracion-de-naves-industriales%2F
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-36.json
+Content Type: application/json
+
+Uri: https://air4cool.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fair4cool.com%2F2017%2F04%2F09%2Frefrigeracion-de-naves-industriales%2F&format=xml
+File Name: C:\Users\jdrc8\Documents\GitHub\air4coolmexico\air4cool.com\wp-json\oembed\1.0\embed-36.xml
+Content Type: text/xml
+
