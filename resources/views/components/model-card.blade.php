@@ -41,6 +41,7 @@
 
                                 <div class="d-flex flex-column">
                                     <a itemprop="url" href="{{ $url }}" target="_self" class="qbutton  default mb-2 text-center" style="">Manual</a>
+                                    <a itemprop="url" href="{{ isset($url_data_sheet) ? $url_data_sheet : '#' }}" target="_self" class="qbutton  default text-center mb-2" style="">Ficha Técnica</a>
                                     <a itemprop="url" href="{{ asset('catalogo.pdf') }}" target="_self" class="qbutton  default text-center" style="">Catálogo</a>
                                 </div>
 

@@ -20,7 +20,7 @@ Modelo BK 19
     de <strong>19.000 m3 / hora </strong>que
     permite climatizar <strong>150
         m2 </strong>con tan
-    sólo <strong>1KW.</strong><span style="color: red;">(pendiente de revisión)</span></p>
+    sólo <strong>1KW.</strong></p>
 @endcomponent
 
 <!--====================================================-->
@@ -44,8 +44,8 @@ Modelo BK 50
 @endslot
 
 <p>Climatizador evaporativo
-    de <strong>50.000 m3 / hora </strong>que
-    permite climatizar <strong>150
+    de <strong>19.000 m3 / hora </strong>que
+    permite climatizar <strong>350
         m2 </strong>con tan
-    sólo <strong>1KW.</strong> <span style="color: red;">(pendiente de revisión)</span></p>
+    sólo <strong>4KW.</strong></p>
 @endcomponent

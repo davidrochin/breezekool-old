@@ -1436,9 +1436,10 @@
 													<div class='latest_post_holder boxes three_columns one_row'>
 														<ul>
 
+															<!-- Aquí se muestran las tarjetas de articulos -->
 															@include('parts.blog-articles')
 
-															<li class="clearfix">
+															<!--<li class="clearfix">
 																<div class="boxes_image">
 																	<a itemprop="url"
 																		href="2018\10\18\funcionaran-bien-los-equipos-evaporativos-en-mi-localidad-app-air4cool\index.htm"><img
