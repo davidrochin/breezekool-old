@@ -16,6 +16,10 @@ Modelo BK 19
 {{ asset('manuals/bk-19-(1004).pdf') }}
 @endslot
 
+@slot('url_datasheet')
+{{ asset('datasheets/bk-19(1004).pdf') }}
+@endslot
+
 <p>Climatizador evaporativo
     de <strong>19.000 m3 / hora </strong>que
     permite climatizar <strong>150
@@ -41,6 +45,10 @@ Modelo BK 50
 
 @slot('url')
 {{ asset('manuals/bk-50.pdf') }}
+@endslot
+
+@slot('url_datasheet')
+{{ asset('datasheets/bk-50.pdf') }}
 @endslot
 
 <p>Climatizador evaporativo

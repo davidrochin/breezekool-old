@@ -1201,6 +1201,8 @@
 									</div>
 								</div>
 							</div>
+
+							<!-- Ejemplo de seccion -->
 							<div data-q_id="#como-funciona"
 								class="vc_row wpb_row section vc_row-fluid  vc_custom_1530629404410 grid_section"
 								style=' text-align:left;'>
@@ -1530,14 +1532,28 @@
 																		class="wpb_text_column wpb_content_element  vc_custom_1530660236813">
 																		<div class="wpb_wrapper">
 																			<h1 class="mb-4" style="margin-bottom: 20px"><span
-																					style="color: #ffffff;">¿Hablamos?</span>
+																					style="color: #ffffff;">Contacto</span>
 																			</h1>
+
+																			<div class="mb-4 text-light">
+																				<a class="btn btn-light mb-2" href="tel:5216622194000">
+																					<img src="{{ asset('icons/call.png') }}" style="height: 25px;" />  6622194000
+																				</a>
+																				<br/>
+																				<a class="btn btn-light mb-2" href="https://wa.me/5216681881484">
+																					<img src="{{ asset('icons/whatsapp.png') }}" style="height: 25px;" />  6681881484
+																				</a>
+																				<br/>
+																				<a class="btn btn-light mb-2" href="mailto:info@breezekool.com">
+																					<img src="{{ asset('icons/email.png') }}" style="height: 25px;" />  info@breezekool.com
+																				</a>
+																			</div>
 
 																			<!-- Mapa -->
 																			<div
 																				style="width: 100%; object-fit: contain; position: relative;">
 																				<img src="./img/mexico.png" />
-																				<a id="tel-pacifico"
+																				<!--<a id="tel-pacifico"
 																					href="https://wa.me/5216621124662"
 																					class="telefono"
 																					style="bottom: 30%; left: 0%;"></a>
@@ -1548,7 +1564,7 @@
 																				<a id="tel-sur"
 																					href="https://wa.me/5215546365809"
 																					class="telefono"
-																					style="bottom: 0%; left: 55%;"></a>
+																					style="bottom: 0%; left: 55%;"></a>-->
 																			</div>
 																		</div>
 																	</div>
