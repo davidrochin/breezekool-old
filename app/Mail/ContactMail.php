@@ -30,6 +30,6 @@ class ContactMail extends Mailable
      */
     public function build()
     {
-        return $this->subject('Solicitud de contacto Air4cool Mexico')->from('sistema@air4coolmexico.mx')->to(env('MAIL_TO', 'null'))->view('mail');
+        return $this->subject('Solicitud de contacto Breezekool')->from('sistema@breezekool.com')->to(env('MAIL_TO', 'null'))->view('mail');
     }
 }

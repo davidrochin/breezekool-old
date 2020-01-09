@@ -867,8 +867,7 @@
 																				<span class="tocounter">100</span>%
 																			</div>
 																			<div class="pie_chart_text">
-																				<h5 class="pie_title">Renovación de aire
-																				</h5>
+																				<h5 class="pie_title">Renovación de aire</h5>
 																			</div>
 																		</div>
 																	</div>
@@ -879,6 +878,8 @@
 												</div>
 											</div>
 										</div>
+
+										
 										<div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-6">
 											<div class="vc_column-inner ">
 												<div class="wpb_wrapper">
@@ -910,6 +911,30 @@
 											</div>
 										</div>
 									</div>
+
+									<!-- Area de fotos custom -->
+									<div class="row">
+										
+										<img class="col-12" src="{{ asset('img/como-trabaja.jfif') }}" style="object-fit:cover;"/>
+
+										<img class="col-12 col-md-6 mb-4" src="{{ asset('img/destapado.jpg') }}" style="object-fit:cover;"/>
+										<img class="col-12 col-md-6 mb-4" src="{{ asset('img/casa.jfif') }}" style="object-fit:cover;"/>
+
+										<img class="col-12 col-md-6 mb-4" src="{{ asset('img/salida.jfif') }}" style="object-fit:cover;"/>
+										<img class="col-12 col-md-6 mb-4" src="{{ asset('img/salida-2.jfif') }}" style="object-fit:cover;"/>
+
+									</div>
+
+									<h1 style="text-align: center; padding-top: 120px;">¿Hablamos?</h1>
+
+									<div class="text-center my-4">
+										<a class="btn btn-success mb-2" href="https://wa.me/5216681881484">
+											<img src="{{ asset('icons/whatsapp-white.png') }}" style="height: 25px;" class="mr-1"/>
+											6681881484
+										</a>
+									</div>
+									
+
 								</div>
 							</div>
 							<div data-q_id="#aplicaciones"
@@ -1537,15 +1562,15 @@
 
 																			<div class="mb-4 text-light">
 																				<a class="btn btn-light mb-2" href="tel:5216622194000">
-																					<img src="{{ asset('icons/call.png') }}" style="height: 25px;" />  6622194000
+																					<img src="{{ asset('icons/call.png') }}" style="height: 25px;" />6622194000
 																				</a>
 																				<br/>
 																				<a class="btn btn-light mb-2" href="https://wa.me/5216681881484">
-																					<img src="{{ asset('icons/whatsapp.png') }}" style="height: 25px;" />  6681881484
+																					<img src="{{ asset('icons/whatsapp.png') }}" style="height: 25px;" />6681881484
 																				</a>
 																				<br/>
 																				<a class="btn btn-light mb-2" href="mailto:info@breezekool.com">
-																					<img src="{{ asset('icons/email.png') }}" style="height: 25px;" />  info@breezekool.com
+																					<img src="{{ asset('icons/email.png') }}" style="height: 25px;" />info@breezekool.com
 																				</a>
 																			</div>
 
