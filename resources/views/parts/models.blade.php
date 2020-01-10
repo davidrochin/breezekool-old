@@ -52,7 +52,7 @@ Modelo BK 50
 @endslot
 
 <p>Climatizador evaporativo
-    de <strong>19.000 m3 / hora </strong>que
+    de <strong>50.000 m3 / hora </strong>que
     permite climatizar <strong>350
         m2 </strong>con tan
     sólo <strong>4KW.</strong></p>

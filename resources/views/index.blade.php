@@ -1539,6 +1539,7 @@
 									</div>
 								</div>
 							</section>
+
 							<div data-q_id="#contacto"
 								class="vc_row wpb_row section vc_row-fluid  vc_custom_1531312025999 grid_section"
 								style=' text-align:center;'>
@@ -1560,18 +1561,30 @@
 																					style="color: #ffffff;">Contacto</span>
 																			</h1>
 
-																			<div class="mb-4 text-light">
-																				<a class="btn btn-light mb-2" href="tel:5216622194000">
-																					<img src="{{ asset('icons/call.png') }}" style="height: 25px;" />6622194000
+																			<div class="row mb-4 text-light">
+
+																				<a class="col-12 col-md-6 text-center text-md-right text-light mb-4" href="https://goo.gl/maps/QMUtjME45mwi1Xx5A">
+																					<p class="text-light">Periférico Norte 361</p> 
+																					<p class="text-light">(entre calles 14 de Abril y 12 de Octubre)</p> 
+																					<p class="text-light">Colonia Luis Encinas</p>
+																					<p class="text-light">C.P. 83138</p>
+																					<p class="text-light">Hermosillo, Sonora</p>
 																				</a>
-																				<br/>
-																				<a class="btn btn-light mb-2" href="https://wa.me/5216681881484">
-																					<img src="{{ asset('icons/whatsapp.png') }}" style="height: 25px;" />6681881484
-																				</a>
-																				<br/>
-																				<a class="btn btn-light mb-2" href="mailto:info@breezekool.com">
-																					<img src="{{ asset('icons/email.png') }}" style="height: 25px;" />info@breezekool.com
-																				</a>
+
+																				<div class="col-12 col-md-6 text-center text-md-left">
+																					<a class="btn btn-light mb-2" href="tel:5216622194000">
+																						<img src="{{ asset('icons/call.png') }}" style="height: 25px;" />6622194000
+																					</a>
+																					<br/>
+																					<a class="btn btn-light mb-2" href="https://wa.me/5216681881484">
+																						<img src="{{ asset('icons/whatsapp.png') }}" style="height: 25px;" />6681881484
+																					</a>
+																					<br/>
+																					<a class="btn btn-light mb-2" href="mailto:info@breezekool.com">
+																						<img src="{{ asset('icons/email.png') }}" style="height: 25px;" />info@breezekool.com
+																					</a>
+																				</div>
+																				
 																			</div>
 
 																			<!-- Mapa -->
