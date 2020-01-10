@@ -271,7 +271,7 @@
                                                                     class="wpb_column vc_column_container vc_col-sm-12">
                                                                     <div class="vc_column-inner ">
                                                                         <div class="wpb_wrapper"><a itemprop="url"
-                                                                                href="..\..\..\..\index.htm#contacto"
+                                                                                href="..\..\..\..\#contacto"
                                                                                 target="_self" class="qbutton  default"
                                                                                 style="font-family: dosis; font-size: 18px; ">Contacto</a>
                                                                         </div>
@@ -436,7 +436,7 @@
                                                             </span></div>
 
                                                         <h6 style="color:#858793;">Los climatizadores evaporativos de
-                                                            Air4Cool son una solución natural y sostenible que consume
+                                                            Breezekool son una solución natural y sostenible que consume
                                                             un 80% menos de energía que un sistema de aire
                                                             acondicionado.</h6>
                                                     </div>
