@@ -1571,7 +1571,7 @@
 																					<p class="text-light">Hermosillo, Sonora</p>
 																				</a>
 
-																				<div class="col-12 col-md-6 text-center text-md-left">
+																				<div class="col-12 col-md-6 text-center text-md-left mb-4">
 																					<a class="btn btn-light mb-2" href="tel:5216622194000">
 																						<img src="{{ asset('icons/call.png') }}" style="height: 25px;" />6622194000
 																					</a>
@@ -1584,6 +1584,8 @@
 																						<img src="{{ asset('icons/email.png') }}" style="height: 25px;" />info@breezekool.com
 																					</a>
 																				</div>
+
+																				<iframe class="col-12 mb-4" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d871.4456326866855!2d-110.973993!3d29.112101!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86ce8698986134a5%3A0x6e961ee27408e1cf!2sPerif%C3%A9rico%20Norte%20361%2C%20Luis%20Encinas%2C%2083138%20Hermosillo%2C%20Son.!5e0!3m2!1sen!2smx!4v1578634080762!5m2!1sen!2smx" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 																				
 																			</div>
 
