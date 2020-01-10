@@ -6,22 +6,10 @@
 	<link rel="stylesheet" href="{!! asset('css/bootstrap.css') !!}">
 	<script type='text/javascript' src='{!! asset('js/bootstrap.min.js') !!}'></script>
 
-	<!-- Google Tag Manager -->
-	<script>(function (w, d, s, l, i) {
-			w[l] = w[l] || []; w[l].push({
-				'gtm.start':
-					new Date().getTime(), event: 'gtm.js'
-			}); var f = d.getElementsByTagName(s)[0],
-				j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
-					'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
-		})(window, document, 'script', 'dataLayer', 'GTM-MQ5KF67');</script>
-	<!-- End Google Tag Manager -->
 	<meta charset="UTF-8">
 
 	<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
 
-	<link rel="profile" href="http://gmpg.org/xfn/11">
-	<!--<link rel="pingback" href="https://air4coolmexico.mx/xmlrpc.php">-->
 	<link rel="shortcut icon" type="image/x-icon" href="wp-content\uploads\2018\06\Favi.png">
 	<link rel="apple-touch-icon" href="wp-content\uploads\2018\06\Favi.png">
 	<link
@@ -39,28 +27,15 @@
 		content="Climatizadores evaporativos Breezekool - Reduce hasta 12ºC la temperatura exterior">
 	<meta property="og:description"
 		content="Los climatizadores evaporativos son la solución profesional para climatizar grandes espacios como naves industriales, almacenes, talleres, etc. ¡Entra!">
-	<!-- <meta property="og:url" content="https://air4coolmexico.mx/"> -->
-	<meta property="og:url" content="https://air4coolmexico.mx/">
-	<meta property="og:site_name" content="Breezekool">
 	<meta name="twitter:card" content="summary_large_image">
 	<meta name="twitter:description"
 		content="Los climatizadores evaporativos son la solución profesional para climatizar grandes espacios como naves industriales, almacenes, talleres, etc. ¡Entra!">
 	<meta name="twitter:title"
 		content="Climatizadores evaporativos Breezekool - Reduce hasta 12ºC la temperatura exterior">
-	<script
-		type='application/ld+json'>{"@context":"https://schema.org","@type":"WebSite","@id":"https://air4coolmexico.mx/#website","url":"https://air4coolmexico.mx/","name":"Air4Cool","potentialAction":{"@type":"SearchAction","target":"https://air4coolmexico.mx/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
-	<script
-		type='application/ld+json'>{"@context":"https://schema.org","@type":"Organization","url":"https://air4coolmexico.mx/","sameAs":["https://es.linkedin.com/company/air4cool"],"@id":"https://air4coolmexico.mx/#organization","name":"Air4Cool","logo":"https://air4coolmexico.mx/wp-content/uploads/2018/06/Logo-A4C-sin-fondo-e1529600460208.png"}</script>
-	<!-- / Yoast SEO plugin. -->
-
-	<link rel='dns-prefetch' href='//s.w.org'>
-	<link rel="alternate" type="application/rss+xml" title="Breezekool &raquo; Feed" href="feed\index.rss">
-	<link rel="alternate" type="application/rss+xml" title="Breezekool &raquo; RSS de los comentarios"
-		href="comments\feed\index.rss">
 	<!-- <script type="text/javascript">
 		window._wpemojiSettings = { "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/", "ext": ".png", "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/", "svgExt": ".svg", "source": { "concatemoji": "https:\/\/air4coolmexico.mx\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.10" } };
 		!function (a, b, c) { function d(a, b) { var c = String.fromCharCode; l.clearRect(0, 0, k.width, k.height), l.fillText(c.apply(this, a), 0, 0); var d = k.toDataURL(); l.clearRect(0, 0, k.width, k.height), l.fillText(c.apply(this, b), 0, 0); var e = k.toDataURL(); return d === e } function e(a) { var b; if (!l || !l.fillText) return !1; switch (l.textBaseline = "top", l.font = "600 32px Arial", a) { case "flag": return !(b = d([55356, 56826, 55356, 56819], [55356, 56826, 8203, 55356, 56819])) && (b = d([55356, 57332, 56128, 56423, 56128, 56418, 56128, 56421, 56128, 56430, 56128, 56423, 56128, 56447], [55356, 57332, 8203, 56128, 56423, 8203, 56128, 56418, 8203, 56128, 56421, 8203, 56128, 56430, 8203, 56128, 56423, 8203, 56128, 56447]), !b); case "emoji": return b = d([55358, 56760, 9792, 65039], [55358, 56760, 8203, 9792, 65039]), !b }return !1 } function f(a) { var c = b.createElement("script"); c.src = a, c.defer = c.type = "text/javascript", b.getElementsByTagName("head")[0].appendChild(c) } var g, h, i, j, k = b.createElement("canvas"), l = k.getContext && k.getContext("2d"); for (j = Array("flag", "emoji"), c.supports = { everything: !0, everythingExceptFlag: !0 }, i = 0; i < j.length; i++)c.supports[j[i]] = e(j[i]), c.supports.everything = c.supports.everything && c.supports[j[i]], "flag" !== j[i] && (c.supports.everythingExceptFlag = c.supports.everythingExceptFlag && c.supports[j[i]]); c.supports.everythingExceptFlag = c.supports.everythingExceptFlag && !c.supports.flag, c.DOMReady = !1, c.readyCallback = function () { c.DOMReady = !0 }, c.supports.everything || (h = function () { c.readyCallback() }, b.addEventListener ? (b.addEventListener("DOMContentLoaded", h, !1), a.addEventListener("load", h, !1)) : (a.attachEvent("onload", h), b.attachEvent("onreadystatechange", function () { "complete" === b.readyState && c.readyCallback() })), g = c.source || {}, g.concatemoji ? f(g.concatemoji) : g.wpemoji && g.twemoji && (f(g.twemoji), f(g.wpemoji))) }(window, document, window._wpemojiSettings); -->
-	</script>
+	
 	<style type="text/css">
 		img.wp-smiley,
 		img.emoji {
@@ -75,6 +50,7 @@
 			padding: 0 !important;
 		}
 	</style>
+
 	<link rel='stylesheet' id='layerslider-css'
 		href='wp-content\plugins\LayerSlider\static\layerslider\css\layerslider.css?ver=6.7.6' type='text/css'
 		media='all'>
@@ -158,10 +134,6 @@
 	<meta name="generator"
 		content="Powered by LayerSlider 6.7.6 - Multi-Purpose, Responsive, Parallax, Mobile-Friendly Slider Plugin for WordPress.">
 	<!-- LayerSlider updates and docs at: https://layerslider.kreaturamedia.com -->
-	<link rel='https://api.w.org/' href='wp-json\index.json'>
-	<link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc.xml?rsd">
-	<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes\wlwmanifest.xml">
-	<meta name="generator" content="WordPress 4.9.10">
 	<link rel='shortlink' href='index.htm'>
 	<link rel="alternate" type="application/json+oembed"
 		href="wp-json\oembed\1.0\embed.json?url=https%3A%2F%2Fair4coolmexico.mx%2F">
@@ -184,8 +156,7 @@
 	<link rel="icon" href="wp-content\uploads\2018\06\cropped-Favi-32x32.png" sizes="32x32">
 	<link rel="icon" href="wp-content\uploads\2018\06\cropped-Favi-192x192.png" sizes="192x192">
 	<link rel="apple-touch-icon-precomposed" href="wp-content\uploads\2018\06\cropped-Favi-180x180.png">
-	<meta name="msapplication-TileImage"
-		content="https://air4coolmexico.mx/wp-content/uploads/2018/06/cropped-Favi-270x270.png">
+
 	<script type="text/javascript">function setREVStartSize(e) {
 			try {
 				e.c = jQuery(e.c); var i = jQuery(window).width(), t = 9999, r = 0, n = 0, l = 0, f = 0, s = 0, h = 0;
@@ -292,10 +263,6 @@
 <body
 	class="home page-template page-template-full_width page-template-full_width-php page page-id-230  qode-title-hidden qode-theme-ver-16.5 qode-theme-bridge qode_advanced_footer_responsive_1000 wpb-js-composer js-comp-ver-5.4.7 vc_responsive"
 	itemscope="" itemtype="http://schema.org/WebPage">
-	<!-- Google Tag Manager (noscript) -->
-	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MQ5KF67" height="0" width="0"
-			style="display:none;visibility:hidden"></iframe></noscript>
-	<!-- End Google Tag Manager (noscript) -->
 
 	<div class="wrapper">
 		<div class="wrapper_inner">
@@ -441,9 +408,6 @@
 				<span class="fa-stack">
 					<i class="qode_icon_font_awesome fa fa-caret-up "></i> </span>
 			</a>
-
-
-
 
 			<div class="content  has_slider">
 				<div class="content_inner  ">
