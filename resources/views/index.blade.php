@@ -894,7 +894,7 @@
 									<div class="text-center my-4">
 										<a class="btn btn-success mb-2" href="https://wa.me/5216681881484">
 											<img src="{{ asset('icons/whatsapp-white.png') }}" style="height: 25px;" class="mr-1"/>
-											6681881484
+											6623578472
 										</a>
 									</div>
 									
@@ -1541,7 +1541,7 @@
 																					</a>
 																					<br/>
 																					<a class="btn btn-light mb-2" href="https://wa.me/5216681881484">
-																						<img src="{{ asset('icons/whatsapp.png') }}" style="height: 25px;" />6681881484
+																						<img src="{{ asset('icons/whatsapp.png') }}" style="height: 25px;" />6623578472
 																					</a>
 																					<br/>
 																					<a class="btn btn-light mb-2" href="mailto:info@breezekool.com">
