@@ -892,7 +892,7 @@
 									<h1 style="text-align: center; padding-top: 120px;">¿Hablamos?</h1>
 
 									<div class="text-center my-4">
-										<a class="btn btn-success mb-2" href="https://wa.me/5216681881484">
+										<a class="btn btn-success mb-2" href="https://wa.me/5216623578472">
 											<img src="{{ asset('icons/whatsapp-white.png') }}" style="height: 25px;" class="mr-1"/>
 											6623578472
 										</a>
@@ -1540,7 +1540,7 @@
 																						<img src="{{ asset('icons/call.png') }}" style="height: 25px;" />6622194000
 																					</a>
 																					<br/>
-																					<a class="btn btn-light mb-2" href="https://wa.me/5216681881484">
+																					<a class="btn btn-light mb-2" href="https://wa.me/5216623578472">
 																						<img src="{{ asset('icons/whatsapp.png') }}" style="height: 25px;" />6623578472
 																					</a>
 																					<br/>
