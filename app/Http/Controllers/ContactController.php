@@ -24,7 +24,8 @@ class ContactController extends Controller
             'message' => $message
         ];
 
-        Mail::send(new ContactMail($email));
+        // Comentado por problemas de seguridad. Hubo bots inyectando headers en el mail
+        //Mail::send(new ContactMail($email));
 
         return redirect('/');
 

@@ -1577,7 +1577,7 @@
 																		<div class="screen-reader-response"></div>
 
 																		<!-- Formulario de contacto -->
-																		<form id="contact-form"
+																		<!--<form id="contact-form"
 																			action="{{ url('/contact') }}" method="post"
 																			class="wpcf7-form cf7_custom_style_1"
 																			novalidate="novalidate">
@@ -1671,12 +1671,13 @@
 																									política de
 																									privacidad</span></label></span></span></span>
 																			</p>
-																		</form>
+																		</form>-->
 																	</div>
-																	<p><input type="submit" value="Enviar"
+																	<!--<p>
+																		<input type="submit" value="Enviar"
 																			class="wpcf7-form-control wpcf7-submit"
 																			onclick="document.getElementById('contact-form').submit();">
-																	</p>
+																	</p>-->
 																	<div
 																		class="wpcf7-response-output wpcf7-display-none">
 																	</div>
@@ -1739,101 +1740,8 @@
 											</div>
 										</div>
 									</div>
-									<!--<div class="column2 footer_col2">
-										<div class="column_inner">
-											<div id="nav_menu-2" class="widget widget_nav_menu">
-												<h5>Evaporativos</h5>
-												<div class="menu-main-menu-container">
-													<ul id="menu-main-menu-2" class="menu">
-														<li id="menu-item-171"
-															class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-171">
-															<a href="#beneficios">Beneficios</a></li>
-														<li id="menu-item-174"
-															class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-174">
-															<a href="#aplicaciones">Aplicaciones</a></li>
-														<li id="menu-item-172"
-															class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-172">
-															<a href="#como-funciona">Cómo funciona</a></li>
-														<li id="menu-item-175"
-															class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-175">
-															<a href="#equipos">Equipos</a></li>
-														<li id="menu-item-476"
-															class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-476">
-															<a href="#app">App</a></li>
-														<li id="menu-item-478"
-															class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-478">
-															<a href="#blog">Blog</a></li>
-													</ul>
-												</div>
-											</div>
-											<div id="custom_html-6" class="widget_text widget widget_custom_html">
-												<div class="textwidget custom-html-widget">
-													<div class="vc_empty_space" style="height: 30px"><span
-															class="vc_empty_space_inner">
-															<span class="empty_space_image"></span>
-														</span></div>
-
-												</div>
-											</div>
-										</div>
-									</div>-->
-									<!--<div class="column3 footer_col3">
-										<div class="column_inner">
-											<div id="recent-posts-3" class="widget widget_recent_entries">
-												<h5>Últimos artículos</h5>
-												<ul>
-													<li>
-														<a
-															href="2019\04\08\sera-2019-el-ano-mas-calido-registrado-2\index.htm">¿Será
-															2019 el año más cálido registrado?</a>
-													</li>
-													<li>
-														<a
-															href="2019\04\03\sube-de-la-luz-pero-no-su-factura\index.htm">¡Sube
-															la luz pero no su factura!</a>
-													</li>
-													<li>
-														<a
-															href="2018\10\18\funcionaran-bien-los-equipos-evaporativos-en-mi-localidad-app-air4cool\index.htm">¿Funcionarán
-															bien los equipos evaporativos en mi localidad? App
-															Air4Cool</a>
-													</li>
-													<li>
-														<a href="2018\08\30\importancia-ahorro-energetico\index.htm">La
-															importancia del ahorro energético</a>
-													</li>
-												</ul>
-											</div>
-											<div id="custom_html-7" class="widget_text widget widget_custom_html">
-												<div class="textwidget custom-html-widget">
-													<div class="vc_empty_space" style="height: 30px"><span
-															class="vc_empty_space_inner">
-															<span class="empty_space_image"></span>
-														</span></div>
-
-												</div>
-											</div>
-										</div>
-									</div>-->
 									<div class="column4 footer_col4">
 										<div class="column_inner">
-											<!--<div id="custom_html-3" class="widget_text widget widget_custom_html">
-												<h5>Contacto</h5>
-												<div class="textwidget custom-html-widget">
-													<div class="q_icon_list"><i
-															class="qode_icon_font_awesome fa fa-envelope-o qode-ili-icon-holder transparent"
-															style="font-size: 16px;color: #389ddf;"></i>
-														<p style="color:#858793;font-size: 13px;font-weight: 400;">
-															comercial@biosolutions.es</p>
-													</div>
-													<div class="q_icon_list"><i
-															class="qode_icon_font_awesome fa fa-phone qode-ili-icon-holder transparent"
-															style="font-size: 16px;color: #389ddf;"></i>
-														<p style="color:#858793;font-size: 13px;font-weight: 400;">(+34)
-															676 12 94 48</p>
-													</div>
-												</div>
-											</div>-->
 											<div id="custom_html-8" class="widget_text widget widget_custom_html">
 												<div class="textwidget custom-html-widget">
 													<div class="vc_empty_space" style="height: 30px"><span
